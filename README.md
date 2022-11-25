@@ -1,3 +1,6 @@
+# ἐντελέχεια 【en.te.lé.kʰeː.a】
+Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
+
 # [eKonomic Research Python Toolkit](https://entelecheia.github.io/ekorpkit-book)
 ## A NLP Library for Social Science Research
 
