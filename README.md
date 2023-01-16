@@ -4,7 +4,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 # [eKonomic Research Python Toolkit](https://entelecheia.github.io/ekorpkit-book)
 ## A NLP Library for Social Science Research
 
-[![PyPI](https://img.shields.io/pypi/v/ekorpkit?color=green)](https://badge.fury.io/py/ekorpkit) [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://entelecheia.github.io/ekorpkit-book/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6497226.svg)](https://doi.org/10.5281/zenodo.6497226) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/entelecheia/)
+[![PyPI](https://img.shields.io/pypi/v/ekorpkit?color=green)](https://badge.fury.io/py/ekorpkit) [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://entelecheia.cc/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6497226.svg)](https://doi.org/10.5281/zenodo.6497226) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://entelecheia.me/)
 
 [![library](https://github.com/entelecheia/ekorpkit-book/raw/main/ekorpkit-book/library.png)](https://entelecheia.github.io/ekorpkit-book)
 
