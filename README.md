@@ -1,12 +1,7 @@
 # ἐντελέχεια 【en.te.lé.kʰeː.a】
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
-# [eKonomic Research Python Toolkit](https://entelecheia.github.io/ekorpkit-book)
-## A NLP Library for Social Science Research
-
-[![PyPI](https://img.shields.io/pypi/v/ekorpkit?color=green)](https://badge.fury.io/py/ekorpkit) [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://entelecheia.cc/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6497226.svg)](https://doi.org/10.5281/zenodo.6497226) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/entelecheia/)
-
-[![library](https://github.com/entelecheia/ekorpkit-book/raw/main/ekorpkit-book/library.png)](https://entelecheia.github.io/ekorpkit-book)
+https://user-images.githubusercontent.com/1177283/224186183-4f1fe765-d2f9-4c37-8d7b-078bf9c879c6.mp4
 
 Artificial Intelligence (AI) is a rapidly evolving field that has the potential to revolutionize many aspects of our lives. However, as AI becomes more advanced, it is important to consider not just its technical capabilities, but also its ethical and societal implications. One way to approach this is by considering the ancient Greek concept of entelecheia, coined by Aristotle, which refers to the state of having achieved one's full potential or the realization of one's purpose.
 
