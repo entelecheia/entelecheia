@@ -1,0 +1,27 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.2.13
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Young Joon Lee
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: gh:entelecheia/hyfi-template
+copyright_year: 2023
+documentaion_tool: jupyter-book
+documentation_url: https://entelecheia.me
+email: entelecheia@hotmail.com
+friendly_name: ἐντελέχεια
+github_repo_name: entelecheia
+github_username: entelecheia
+package_name: entelecheia
+project_description: AI's development and transformation have the potential to reshape
+    various aspects of life. Inspired by Aristotle's concept of entelecheia, AI should
+    achieve its intended goals while incorporating human-like intelligence and adhering
+    to ethical guidelines. NLP, finance, and economics are areas where AI can make
+    a significant impact, but it's crucial to ensure alignment with societal values.
+    As AI progresses, addressing ethical and societal consequences is essential to
+    achieve entelecheia and serve the greater good of humanity.
+project_license: MIT
+project_name: entelecheia
+project_short_description: ἐντελέχεια is coined by Aristotle from ἐντελής (entelḗs,
+    “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
+use_source_code_skeleton: true
+
