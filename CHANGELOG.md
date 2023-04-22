@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.1.3 (2023-04-22)
+### Fix
+* Apply updated template ([`6371714`](https://github.com/entelecheia/entelecheia/commit/6371714bd7400eeeeeb96c9391dff0aad821f56d))
+
 ## v0.1.2 (2023-04-22)
 ### Fix
 * **config:** Update package config file path in entelecheia module ([`f07824d`](https://github.com/entelecheia/entelecheia/commit/f07824d728eb84550faa258a6519e2be795be118))
