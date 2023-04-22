@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier; do NOT edit manually
-_commit: v0.2.16
+_commit: v0.2.18
 _src_path: gh:entelecheia/hyperfast-python-template
 author: Young Joon Lee
 code_template_answers_file: .copier-hyfi-config.yaml
@@ -23,5 +23,7 @@ project_license: MIT
 project_name: entelecheia
 project_short_description: ἐντελέχεια is coined by Aristotle from ἐντελής (entelḗs,
     “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
+upload_to_release: true
+upload_to_repository: true
 use_source_code_skeleton: true
 
