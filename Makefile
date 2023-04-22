@@ -207,5 +207,5 @@ init-git: ## initialize git
 	@git init
 
 reinit-project: install-copier ## reinitialize the project (Warning: this may overwrite existing files!)
-	@copier --skip pyproject.toml --data 'code_template_source=gh:entelecheia/hyfi-template' --answers-file .copier-config.yaml gh:entelecheia/hyperfast-python-template .
+	@copier --data 'code_template_source=gh:entelecheia/hyfi-template' --answers-file .copier-config.yaml gh:entelecheia/hyperfast-python-template .
 
