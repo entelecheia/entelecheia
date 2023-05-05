@@ -10,6 +10,7 @@ on:
     paths:
       - 'src/**'
       - 'pyproject.toml'
+      - '.copier-template/**'
 
 permissions:
   contents: write
@@ -45,7 +46,7 @@ jobs:
 
       # install dependencies
       - name: Install dependencies
-        run: make install-dev
+        run: poetry install --with dev
 
       - name: Python Semantic Release to PyPI
         run: |

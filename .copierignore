@@ -1,0 +1,7 @@
+.copierignore
+.tasks-extra.toml
+CHANGELOG.md
+pyproject.toml
+README.md
+src/entelecheia/__cli__.py
+src/entelecheia/__init__.py

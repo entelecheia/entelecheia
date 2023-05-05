@@ -8,7 +8,7 @@
 title: "ἐντελέχεια" # The title of the book. Will be placed in the left navbar.
 author: "Young Joon Lee" # The author of the book
 copyright: "2023" # Copyright year to be placed in the footer
-# logo: logo.png # A path to the book logo
+logo: https://assets.entelecheia.ai/logo.png # logo: Path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -38,9 +38,15 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  use_edit_page_button: true
+  favicon: https://assets.entelecheia.ai/favicon.png # favicon: Path to the favicon image
+  # google_analytics_id: Google Analytics ID
 
 sphinx:
   config:
+    html_extra_path: ["assets"]
+    bibtex_reference_style: author_year
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
     intersphinx_mapping:
       ebp:
         - "https://executablebooks.org/en/latest/"
@@ -83,3 +89,5 @@ sphinx:
     - sphinxcontrib.video
     - sphinxcontrib.mermaid
     - sphinx_thebe
+    - sphinx_carousel.carousel
+

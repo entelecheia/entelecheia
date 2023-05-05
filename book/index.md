@@ -1,9 +1,9 @@
 # ἐντελέχεια
 
 [![pypi-image]][pypi-url]
-[![license-image]][license-url]
 [![version-image]][release-url]
 [![release-date-image]][release-url]
+[![license-image]][license-url]
 [![jupyter-book-image]][docs-url]
 
 <!-- Links: -->
@@ -32,8 +32,6 @@
 
 AI's development and transformation have the potential to reshape various aspects of life. Inspired by Aristotle's concept of entelecheia, AI should achieve its intended goals while incorporating human-like intelligence and adhering to ethical guidelines. NLP, finance, and economics are areas where AI can make a significant impact, but it's crucial to ensure alignment with societal values. As AI progresses, addressing ethical and societal consequences is essential to achieve entelecheia and serve the greater good of humanity.
 
-
-
 ## Changelog
 
 See the [CHANGELOG] for more information.
@@ -45,7 +43,6 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 ## License
 
 This project is released under the [MIT License][license-url].
-
 
 ## Table of Contents
 
