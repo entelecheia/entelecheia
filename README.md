@@ -19,4 +19,4 @@
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entelecheia&size_weight=0&count_weight=1&layout=compact&langs_count=10&theme=darcula&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entelecheia&size_weight=0&count_weight=1&layout=compact&langs_count=10&theme=transparent&card_width=400)
