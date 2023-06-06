@@ -19,4 +19,4 @@
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entelecheia&size_weight=0.1&count_weight=0.9&layout=compact&langs_count=10&theme=transparent&card_width=395&hide_border=true)](https://entelecheia.me/repositories/) [![GitHub Streak](https://streak-stats.demolab.com?user=entelecheia&theme=transparent&hide_border=true&card_width=395)](https://entelecheia.me/repositories/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entelecheia&size_weight=0.1&count_weight=0.9&layout=compact&langs_count=10&theme=transparent&card_width=400&hide_border=true)](https://entelecheia.me/repositories/) [![GitHub Streak](https://streak-stats.demolab.com?user=entelecheia&theme=transparent&hide_border=true&card_width=400)](https://entelecheia.me/repositories/)
