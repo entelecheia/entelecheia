@@ -21,4 +21,4 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entelecheia&size_weight=0.1&count_weight=0.9&layout=compact&langs_count=10&theme=transparent&card_width=400&hide_border=true)](https://entelecheia.me/repositories/) [![GitHub Streak](https://streak-stats.demolab.com?user=entelecheia&theme=transparent&hide_border=true&card_width=400)](https://entelecheia.me/repositories/)
 
-[![entelecheia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entelecheia&layout=compact&theme=transparent&hide_border=true&hide=other,browsing,shell,writing,reviewing,searching,researching,github,ai)](https://wakatime.com/@entelecheia)
+[![entelecheia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entelecheia&layout=compact&theme=transparent&hide_border=true&hide=other,browsing,shell,writing,reviewing,searching,researching,github,ai,text)](https://wakatime.com/@entelecheia)
