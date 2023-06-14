@@ -1,5 +1,6 @@
 # Changes here will be overwritten by Copier; do NOT edit manually
-_commit: v0.3.3
+_commit: v0.3.9
 _src_path: gh:entelecheia/hyfi-template
 package_name: entelecheia
+project_name: entelecheia
 
