@@ -5,10 +5,13 @@
 [![release-date-image]][release-url]
 [![license-image]][license-url]
 [![jupyter-book-image]][docs-url]
+[![codecov][codecov-image]][codecov-url]
 
 <!-- Links: -->
 [hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
 
+[codecov-image]: https://codecov.io/gh/entelecheia/entelecheia/branch/main/graph/badge.svg?token=[REPLACE_ME]
+[codecov-url]: https://codecov.io/gh/entelecheia/entelecheia
 [pypi-image]: https://img.shields.io/pypi/v/entelecheia
 [license-image]: https://img.shields.io/github/license/entelecheia/entelecheia
 [license-url]: https://github.com/entelecheia/entelecheia/blob/main/LICENSE
