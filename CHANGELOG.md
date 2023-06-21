@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.2.3 (2023-06-21)
+### Fix
+* **template:** Apply the latest template ([`ff9a73e`](https://github.com/entelecheia/entelecheia/commit/ff9a73e932ce704ad91f2fe8a7e488e5d57092cd))
+
 ## v0.2.2 (2023-06-14)
 ### Fix
 * **hyfi-conf:** Update hyfi configs to the latest ([`22ba27c`](https://github.com/entelecheia/entelecheia/commit/22ba27c223a4040d8186ceefffcb0048f1bc3c7e))
