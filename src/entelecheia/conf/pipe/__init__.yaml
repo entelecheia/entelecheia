@@ -1,6 +1,10 @@
-_func_: hyfi.pipe.funcs.apply_pipe_func
-apply_to: text
-rcParams:
-use_batcher: true
-num_workers: 1
+_pipe_:
+_target_:
+_with_:
+name:
+desc:
+env:
+use_pipe_obj: true
+pipe_obj_arg_name:
+return_pipe_obj: false
 verbose: false
