@@ -5,3 +5,6 @@ pyproject.toml
 README.md
 src/entelecheia/__cli__.py
 src/entelecheia/__init__.py
+src/entelecheia/conf/about/__init__.yaml
+tests/entelecheia/test_cli.py
+.gitignore
