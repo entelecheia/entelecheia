@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.2.10 (2023-07-18)
+### Fix
+* **dependencies:** Upgrade hyfi to 1.2.14, remove test files ([`32ce923`](https://github.com/entelecheia/entelecheia/commit/32ce9234b034a35fd65ac03f584c3640ca334071))
+
 ## v0.2.9 (2023-07-17)
 ### Fix
 * **dependencies:** Upgrade hyfi to 1.2.13 ([`a4f107b`](https://github.com/entelecheia/entelecheia/commit/a4f107bae69b0e83626ddc885bd0ecbd73080c6c))
