@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "entelecheia"
-version = "0.2.10"
+version = "0.2.11"
 description = "ἐντελέχεια is coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”)."
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "MIT"

@@ -1,5 +1,10 @@
 <!--next-version-placeholder-->
 
+## v0.2.11 (2023-07-20)
+### Fix
+* **HyFI:** Initialize logger, modify get_version docstring ([`6b89139`](https://github.com/entelecheia/entelecheia/commit/6b8913993e5ad96f94912f131b7352b3dad11c00))
+* **dependencies:** Upgrade hyfi to 1.3.1 ([`1be70c3`](https://github.com/entelecheia/entelecheia/commit/1be70c39c0f86f3303c8a40bf3204fafd9aca542))
+
 ## v0.2.10 (2023-07-18)
 ### Fix
 * **dependencies:** Upgrade hyfi to 1.2.14, remove test files ([`32ce923`](https://github.com/entelecheia/entelecheia/commit/32ce9234b034a35fd65ac03f584c3640ca334071))
