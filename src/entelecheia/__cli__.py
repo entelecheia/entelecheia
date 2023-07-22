@@ -1,15 +1,10 @@
 """Command line interface for entelecheia"""
-
-# Importing the libraries
-import sys
-
-from hyfi import about, hydra_main  # type: ignore
+from hyfi import about, hydra_main
 
 
 def main() -> None:
     """Main function for the CLI"""
-    sys.argv.append(f"--config-path={about.config_path}")
-    hydra_main()
+    hydra_main(config_path=about.config_path)
 
 
 if __name__ == "__main__":
