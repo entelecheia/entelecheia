@@ -1,5 +1,10 @@
 <!--next-version-placeholder-->
 
+## v0.2.13 (2023-07-22)
+### Fix
+* **entelecheia:** Add new config.yaml file ([`ec7704e`](https://github.com/entelecheia/entelecheia/commit/ec7704e067c3114394a390710840c9b599a55409))
+* **dependencies:** Upgrade hyfi to 1.6.1 ([`62b995c`](https://github.com/entelecheia/entelecheia/commit/62b995c784e50daa6112ab40bdeaeea4162b85ce))
+
 ## v0.2.12 (2023-07-22)
 ### Fix
 * **dependencies:** Upgrade hyfi to 1.6.0 ([`f43ce55`](https://github.com/entelecheia/entelecheia/commit/f43ce55c04468ce6ae20f1c6eb28988f9bb4f8ca))
