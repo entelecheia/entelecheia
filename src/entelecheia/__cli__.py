@@ -1,10 +1,10 @@
 """Command line interface for entelecheia"""
-from hyfi import about, hydra_main
+from hyfi import hyfi_main
 
 
 def main() -> None:
     """Main function for the CLI"""
-    hydra_main(config_path=about.config_path)
+    hyfi_main()
 
 
 if __name__ == "__main__":
