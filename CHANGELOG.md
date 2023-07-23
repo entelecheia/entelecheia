@@ -1,5 +1,12 @@
 <!--next-version-placeholder-->
 
+## v0.2.14 (2023-07-23)
+### Fix
+* **entelecheia:** Change initialization of HyFI object and its logger ([`1c236ec`](https://github.com/entelecheia/entelecheia/commit/1c236eca021b13649554ff9065cc75935e5088b1))
+* **entelecheia:** Replace hydra_main with hyfi_main ([`4bfaa38`](https://github.com/entelecheia/entelecheia/commit/4bfaa380e974ffcc03c4f00fcef49f88a594497b))
+* **dependencies:** Update hyfi to 1.8.1, limit black version to 23.3.0 ([`1632eb9`](https://github.com/entelecheia/entelecheia/commit/1632eb975f1f31e54ca435a1b8214acedde27711))
+* **conf/about:** Rename __init__.yaml to entelecheia.yaml ([`e37a295`](https://github.com/entelecheia/entelecheia/commit/e37a29565ca8b105d82c8a485f716f7e6fc6de66))
+
 ## v0.2.13 (2023-07-22)
 ### Fix
 * **entelecheia:** Add new config.yaml file ([`ec7704e`](https://github.com/entelecheia/entelecheia/commit/ec7704e067c3114394a390710840c9b599a55409))
