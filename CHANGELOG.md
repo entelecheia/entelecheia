@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.2.15 (2023-07-26)
+### Fix
+* **entelecheia:** Change initialization methods for HyFI and logging ([`79fd6eb`](https://github.com/entelecheia/entelecheia/commit/79fd6eb8df7117a4f9e0abf31a0c2c718c2f6012))
+
 ## v0.2.14 (2023-07-23)
 ### Fix
 * **entelecheia:** Change initialization of HyFI object and its logger ([`1c236ec`](https://github.com/entelecheia/entelecheia/commit/1c236eca021b13649554ff9065cc75935e5088b1))
