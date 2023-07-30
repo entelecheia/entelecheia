@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.2.16 (2023-07-30)
+### Fix
+* **dependencies:** Upgrade hyfi to 1.12.5 ([`91e13e3`](https://github.com/entelecheia/entelecheia/commit/91e13e3ff6537e61cc4c5985d67603e4cf87f23e))
+
 ## v0.2.15 (2023-07-26)
 ### Fix
 * **entelecheia:** Change initialization methods for HyFI and logging ([`79fd6eb`](https://github.com/entelecheia/entelecheia/commit/79fd6eb8df7117a4f9e0abf31a0c2c718c2f6012))
