@@ -6,6 +6,7 @@
 [![research-img]][research-url]
 [![linkedin-img]][linkedin-url]
 [![stateful-img]][stateful-url]
+[![stateful_dnd-img]][stateful-url]
 
 [home-img]: https://img.shields.io/badge/home-entelecheia.me-blue
 [home-url]: https://entelecheia.me
@@ -19,6 +20,7 @@
 [linkedin-url]: https://www.linkedin.com/in/entelecheia/
 [stateful-img]: https://badge.stateful.com/entelecheia/status.svg
 [stateful-url]: https://app.stateful.com/status/entelecheia
+[stateful_dnd-img]: https://badge.stateful.com/entelecheia/dnd.svg
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
