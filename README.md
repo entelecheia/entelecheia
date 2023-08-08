@@ -4,7 +4,6 @@
 [![course-img]][course-url]
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
-[![linkedin-img]][linkedin-url]
 [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url]
 
