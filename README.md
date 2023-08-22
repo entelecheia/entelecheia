@@ -23,7 +23,7 @@
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=entelecheia&theme=transparent&hide_border=true)](https://entelecheia.me/repositories/) [![entelecheia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entelecheia&layout=compact&theme=transparent&hide_border=true&hide=other,browsing,shell,writing,reviewing,searching,researching,github,ai,text)](https://wakatime.com/@entelecheia)
+[![GitHub Streak](https://streak-stats.demolab.com?user=entelecheia&theme=transparent&hide_border=true&card_width=400)](https://entelecheia.me/repositories/) [![entelecheia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entelecheia&layout=compact&theme=transparent&hide_border=true&hide=other,browsing,shell,writing,reviewing,searching,researching,github,ai,text&card_width=400)](https://wakatime.com/@entelecheia)
 
 [![entelecheia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)](https://entelecheia.me/repositories/)
 
