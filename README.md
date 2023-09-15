@@ -31,8 +31,8 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 
 <a href="https://www.quine.sh/user/entelecheia">
-  <img width=49.5% align="center" src="https://stats.quine.sh/entelecheia/topics-over-time?theme=dark" />
+  <img width=49% align="center" src="https://stats.quine.sh/entelecheia/topics-over-time?theme=dark" />
 </a>
 <a href="https://www.quine.sh/user/entelecheia">
-  <img width=49.5% align="center" src="https://stats.quine.sh/entelecheia/languages-over-time?theme=dark" />
+  <img width=49% align="center" src="https://stats.quine.sh/entelecheia/languages-over-time?theme=dark" />
 </a>
