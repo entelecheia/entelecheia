@@ -29,4 +29,10 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)](https://entelecheia.me/repositories/)
 
-[![entelecheia's GitHub | Topics Over Time](https://stats.quine.sh/entelecheia/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=entelecheia)
+
+<a href="https://www.quine.sh/user/entelecheia">
+  <img width=49.5% align="center" src="https://stats.quine.sh/entelecheia/topics-over-time?theme=dark" />
+</a>
+<a href="https://www.quine.sh/user/entelecheia">
+  <img width=49.5% align="center" src="https://stats.quine.sh/entelecheia/languages-over-time?theme=dark" />
+</a>
