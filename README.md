@@ -1,9 +1,9 @@
 # ἐντελέχεια 【en.te.lé.kʰeː.a】
 
 [![home-img]][home-url]
+[![halla-img]][halla-url]
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
-[![halla-img]][halla-url]
 [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url]
 
