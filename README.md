@@ -4,8 +4,8 @@
 [![home-img]][home-url]
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
-[![stateful-img]][stateful-url]
-[![stateful_dnd-img]][stateful-url]
+<!-- [![stateful-img]][stateful-url]
+[![stateful_dnd-img]][stateful-url] -->
 
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
 [halla-url]: https://halla.ai
