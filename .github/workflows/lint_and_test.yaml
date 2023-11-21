@@ -6,11 +6,10 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - "*"
+      - "main"
     paths:
       - "src/**"
       - "tests/**"
-      - '.copier-template/**'
 
 jobs:
   build:
@@ -72,7 +71,7 @@ jobs:
           echo '\n\n\n'
 
       - name: Upload coverage reports to Codecov
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v3
         with:
           fail_ci_if_error: false # optional (default = false)
           verbose: true # optional (default = false)
