@@ -1,5 +1,6 @@
 # ἐντελέχεια 【en.te.lé.kʰeː.a】
 
+[![stai-img]][stai-url]
 [![halla-img]][halla-url]
 [![home-img]][home-url]
 [![lecture-img]][lecture-url]
@@ -8,6 +9,8 @@
 <!-- [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url] -->
 
+[stai-img]: https://img.shields.io/badge/STAI-jeju.ai-blue
+[stai-url]: https://stai.jeju.ai
 [playground-img]: https://img.shields.io/badge/playground-app_launcher-blue
 [playground-url]: https://entelecheia.cloudflareaccess.com
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
