@@ -1,5 +1,16 @@
 <!--next-version-placeholder-->
 
+## v0.3.0 (2024-03-23)
+
+### Feature
+
+* **entelecheia:** Add target field in about page manifest ([`6d53342`](https://github.com/entelecheia/entelecheia/commit/6d533425bfe2e8cae91571881ccc35f04be92e61))
+* **init:** Add open_homepage function ([`f02a063`](https://github.com/entelecheia/entelecheia/commit/f02a06358f56cee7503f313b1901c6cd46f0f72e))
+
+### Fix
+
+* **pyproject:** Upgrade Python version to ^3.9, hyfi to ^1.36.1 ([`75b158f`](https://github.com/entelecheia/entelecheia/commit/75b158f0ddfb9d0bcfa9c6c16021ac55bdb89a72))
+
 ## v0.2.16 (2023-07-30)
 ### Fix
 * **dependencies:** Upgrade hyfi to 1.12.5 ([`91e13e3`](https://github.com/entelecheia/entelecheia/commit/91e13e3ff6537e61cc4c5985d67603e4cf87f23e))
