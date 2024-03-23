@@ -1,4 +1,5 @@
 """Command line interface for entelecheia"""
+
 from hyfi import hyfi_main
 
 
