@@ -1,4 +1,7 @@
+"""Initialize the entelecheia package."""
+
 import os
+import webbrowser
 
 from hyfi import HyFI
 
@@ -23,4 +26,12 @@ def get_version() -> str:
     return __version__
 
 
-__all__ = ["HyFI", "get_version"]
+def open_homepage(**args) -> None:
+    """
+    Open the homepage in the browser.
+    """
+    HyFI.print_about(**args)
+    webbrowser.open_new_tab(args["homepage"])
+
+
+__all__ = ["HyFI", "get_version", "open_homepage"]
