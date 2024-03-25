@@ -14,7 +14,7 @@ entelecheia = 'entelecheia.__cli__:main'
 
 [tool.poetry.dependencies]
 python = "^3.9, <3.13"
-hyfi = "^1.36.1"
+hyfi = "^1.36.3"
 
 [tool.poetry.group.dev]
 optional = true
