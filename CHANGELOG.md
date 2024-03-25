@@ -1,5 +1,12 @@
 <!--next-version-placeholder-->
 
+## v0.3.1 (2024-03-25)
+
+### Fix
+
+* **entelecheia:** Remove unused function open_homepage and update about yaml configuration ([`0f34a67`](https://github.com/entelecheia/entelecheia/commit/0f34a6701c1e60896da953c30474883597c9c840))
+* **dependencies:** Update hyfi version to 1.36.3 ([`8bcc3dd`](https://github.com/entelecheia/entelecheia/commit/8bcc3dd782bd619a7fd106dad5c7a29cdf82b8b7))
+
 ## v0.3.0 (2024-03-23)
 
 ### Feature
