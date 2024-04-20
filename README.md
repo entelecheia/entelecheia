@@ -45,15 +45,17 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 💬 Feel free to connect with me to explore how we can shape the future of finance together with cutting-edge AI solutions.
 
+#### 📈 GitHub Statistics
+
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>📊 GitHub Stats</summary>
   
   [![GitHub Streak](http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true)](https://entelecheia.me/repositories/) 
   <!-- [![entelecheia's wakatime stats](https://github-readme-stats.entelecheia.me/api/wakatime?username=entelecheia&layout=compact&theme=transparent&hide_border=true&hide=other,browsing,shell,writing,reviewing,searching,researching,github,ai,text)](https://wakatime.com/@entelecheia) -->
 </details>
   
 <details>
-  <summary>Recent Contributions</summary>
+  <summary>🔥 Recent Contributions</summary>
   
   [![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)](https://entelecheia.me/repositories/)
   
@@ -62,7 +64,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
   
   
 <details>
-  <summary>Language and Topics Over Time</summary>
+  <summary>🌐 Language and Topics Trajectory</summary>
   
   <a href="https://www.quine.sh/user/entelecheia">
     <img width=49% align="center" src="https://stats.quine.sh/entelecheia/topics-over-time?theme=dark" />
