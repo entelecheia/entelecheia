@@ -31,7 +31,7 @@
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
-![entelecheia](https://github.com/entelecheia/entelecheia/assets/1177283/0a67c698-8c9e-4006-b131-d0593cd7c256)
+[![entelecheia](https://github.com/entelecheia/entelecheia/assets/1177283/0a67c698-8c9e-4006-b131-d0593cd7c256)](https://entelecheia.me)
 
 ### Hi there, I'm Young Joon Lee 👋
 
