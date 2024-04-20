@@ -31,6 +31,18 @@
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
+### Hi there, I'm Young Joon Lee 👋
+
+🏫 I am an Assistant Professor of Artificial Intelligence Engineering at Cheju Halla University in Jeju, Korea. I specialize in integrating Artificial Intelligence, Machine Learning, and Natural Language Processing to transform finance and economics.
+
+🔍 My research involves creating sophisticated AI models that enhance decision-making accuracy and efficiency in financial sectors.
+
+🌱 I’m committed to educating and inspiring the next generation of AI professionals, preparing them to excel at the forefront of AI and finance intersections.
+
+🤝 I'm eager to collaborate with peers, industry experts, and organizations interested in utilizing AI to revolutionize financial practices and drive innovation.
+
+💬 Feel free to connect with me to explore how we can shape the future of finance together with cutting-edge AI solutions.
+
 <details>
   <summary>GitHub Stats</summary>
   
