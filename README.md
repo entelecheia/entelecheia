@@ -31,6 +31,8 @@
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
+![entelecheia](https://github.com/entelecheia/entelecheia/assets/1177283/0a67c698-8c9e-4006-b131-d0593cd7c256)
+
 ### Hi there, I'm Young Joon Lee 👋
 
 🏫 I am an Assistant Professor of Artificial Intelligence Engineering at Cheju Halla University in Jeju, Korea. I specialize in integrating Artificial Intelligence, Machine Learning, and Natural Language Processing to transform finance and economics.
