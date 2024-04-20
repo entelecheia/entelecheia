@@ -31,17 +31,29 @@
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
-[![GitHub Streak](http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true)](https://entelecheia.me/repositories/) 
-<!-- [![entelecheia's wakatime stats](https://github-readme-stats.entelecheia.me/api/wakatime?username=entelecheia&layout=compact&theme=transparent&hide_border=true&hide=other,browsing,shell,writing,reviewing,searching,researching,github,ai,text)](https://wakatime.com/@entelecheia) -->
-
-[![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)](https://entelecheia.me/repositories/)
-
-[![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)](https://entelecheia.me/repositories/)
-
-
-<a href="https://www.quine.sh/user/entelecheia">
-  <img width=49% align="center" src="https://stats.quine.sh/entelecheia/topics-over-time?theme=dark" />
-</a>
-<a href="https://www.quine.sh/user/entelecheia">
-  <img width=49% align="center" src="https://stats.quine.sh/entelecheia/languages-over-time?theme=dark" />
-</a>
+<details>
+  <summary>GitHub Stats</summary>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true)](https://entelecheia.me/repositories/) 
+  <!-- [![entelecheia's wakatime stats](https://github-readme-stats.entelecheia.me/api/wakatime?username=entelecheia&layout=compact&theme=transparent&hide_border=true&hide=other,browsing,shell,writing,reviewing,searching,researching,github,ai,text)](https://wakatime.com/@entelecheia) -->
+</details>
+  
+<details>
+  <summary>Recent Contributions</summary>
+  
+  [![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)](https://entelecheia.me/repositories/)
+  
+  [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)](https://entelecheia.me/repositories/)
+</details>
+  
+  
+<details>
+  <summary>Language and Topics Over Time</summary>
+  
+  <a href="https://www.quine.sh/user/entelecheia">
+    <img width=49% align="center" src="https://stats.quine.sh/entelecheia/topics-over-time?theme=dark" />
+  </a>
+  <a href="https://www.quine.sh/user/entelecheia">
+    <img width=49% align="center" src="https://stats.quine.sh/entelecheia/languages-over-time?theme=dark" />
+  </a>
+</details>
