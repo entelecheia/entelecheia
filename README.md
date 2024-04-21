@@ -53,6 +53,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
   
   [![GitHub Streak](http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true)](https://entelecheia.me/repositories/) 
   [![GitHub Stats](http://github-readme-stats.entelecheia.me/api?username=entelecheia&theme=transparent&show_icons=true&hide_border=true)](https://entelecheia.me/repositories/) 
+  
   [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)](https://entelecheia.me/repositories/)
 
 </details>
