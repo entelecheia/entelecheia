@@ -1,5 +1,6 @@
 # ἐντελέχεια 【en.te.lé.kʰeː.a】
 
+[![pypi-image]][pypi-url]
 [![stai-img]][stai-url]
 [![halla-img]][halla-url]
 [![home-img]][home-url]
@@ -9,7 +10,8 @@
 
 <!-- [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url] -->
-
+[pypi-image]: https://img.shields.io/pypi/v/entelecheia
+[pypi-url]: https://pypi.org/project/entelecheia
 [stai-img]: https://img.shields.io/badge/STAI-jeju.ai-blue
 [stai-url]: https://stai.jeju.ai
 [playground-img]: https://img.shields.io/badge/playground-app_launcher-blue
