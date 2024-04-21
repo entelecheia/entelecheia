@@ -6,6 +6,7 @@
 [![lecture-img]][lecture-url]
 [![research-img]][research-url]
 [![playground-img]][playground-url]
+
 <!-- [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url] -->
 
@@ -52,6 +53,9 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
   
   [![GitHub Streak](http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true)](https://entelecheia.me/repositories/) 
   <!-- [![entelecheia's wakatime stats](https://github-readme-stats.entelecheia.me/api/wakatime?username=entelecheia&layout=compact&theme=transparent&hide_border=true&hide=other,browsing,shell,writing,reviewing,searching,researching,github,ai,text)](https://wakatime.com/@entelecheia) -->
+
+  [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)](https://entelecheia.me/repositories/)
+
 </details>
   
 <details>
@@ -59,7 +63,6 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
   
   [![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)](https://entelecheia.me/repositories/)
   
-  [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)](https://entelecheia.me/repositories/)
 </details>
   
   
