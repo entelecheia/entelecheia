@@ -50,9 +50,11 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 <details>
   <summary>📊 GitHub Stats</summary>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true)](https://entelecheia.me/repositories/) 
-  [![GitHub Stats](http://github-readme-stats.entelecheia.me/api?username=entelecheia&theme=transparent&show_icons=true&hide_border=true)](https://entelecheia.me/repositories/) 
+
+  <a href="https://entelecheia.me/repositories/">
+    <img width=49% align="center" src="http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true" />
+    <img width=49% align="center" src="http://github-readme-stats.entelecheia.me/api?username=entelecheia&theme=transparent&show_icons=true&hide_border=true&hide_title=true" />
+  </a>
   
   [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)](https://entelecheia.me/repositories/)
 
