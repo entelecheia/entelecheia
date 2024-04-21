@@ -1,5 +1,11 @@
 <!--next-version-placeholder-->
 
+## v0.3.2 (2024-04-21)
+
+### Fix
+
+* **docs:** Update GitHub Stats link in README.md ([`1ced68b`](https://github.com/entelecheia/entelecheia/commit/1ced68b2a47c9cc8cb0c3653d114d1e1e2f5fba8))
+
 ## v0.3.1 (2024-03-25)
 
 ### Fix
