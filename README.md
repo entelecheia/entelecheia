@@ -35,7 +35,7 @@
 
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
-[![entelecheia](https://github.com/entelecheia/entelecheia/assets/1177283/0a67c698-8c9e-4006-b131-d0593cd7c256)](https://entelecheia.me)
+[![entelecheia](https://github.com/entelecheia/entelecheia/assets/1177283/0a67c698-8c9e-4006-b131-d0593cd7c256)][home-url]
 
 ### Hi there, I'm Young Joon Lee 👋
 
@@ -85,4 +85,4 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 #### 📇 Link with me on [![linkedin-img]][linkedin-url]
 
-[![1648330290418](https://github.com/entelecheia/entelecheia/assets/1177283/583b0ea7-359a-429b-8c4e-138fd175497e)](https://www.linkedin.com/in/entelecheia/)
+[![1648330290418](https://github.com/entelecheia/entelecheia/assets/1177283/583b0ea7-359a-429b-8c4e-138fd175497e)][linkedin-url]
