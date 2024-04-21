@@ -83,4 +83,4 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
   </a>
 </details>
 
-![1648330290418](https://github.com/entelecheia/entelecheia/assets/1177283/583b0ea7-359a-429b-8c4e-138fd175497e)
+[![1648330290418](https://github.com/entelecheia/entelecheia/assets/1177283/583b0ea7-359a-429b-8c4e-138fd175497e)](https://www.linkedin.com/in/entelecheia/)
