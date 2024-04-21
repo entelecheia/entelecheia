@@ -25,4 +25,4 @@ def get_version() -> str:
     return __version__
 
 
-__all__ = ["HyFI", "get_version", "open_homepage"]
+__all__ = ["HyFI", "get_version"]
