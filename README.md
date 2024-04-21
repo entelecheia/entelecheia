@@ -21,6 +21,7 @@
 [halla-url]: https://halla.ai
 [home-img]: https://img.shields.io/badge/home-entelecheia.me-blue
 [home-url]: https://entelecheia.me
+[home-repo-url]: https://entelecheia.me/repositories
 [course-img]: https://img.shields.io/badge/course-entelecheia.ai-blue
 [course-url]: https://course.entelecheia.ai
 [lecture-img]: https://img.shields.io/badge/lecture-entelecheia.ai-blue
@@ -59,16 +60,16 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
     <img width=49% align="center" src="http://github-readme-stats.entelecheia.me/api?username=entelecheia&theme=transparent&show_icons=true&hide_border=true&hide_title=true" />
   </a>
   
-  [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)](https://entelecheia.me/repositories/)
+  [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)][home-repo-url]
 
 </details>
   
 <details>
   <summary>🔥 Recent Contributions</summary>
   
-  [![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)](https://entelecheia.me/repositories/)
+  [![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)][home-repo-url]
 
-[![3d contributions](https://raw.githubusercontent.com/entelecheia/metrics/main/profile-3d-contrib/profile-entelecheia.svg)](https://github.com/entelecheia/entelecheia/edit/main/README.md)
+  [![3d contributions](https://raw.githubusercontent.com/entelecheia/metrics/main/profile-3d-contrib/profile-entelecheia.svg)][home-repo-url]
 
 </details>
   
