@@ -10,6 +10,7 @@
 
 <!-- [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url] -->
+
 [pypi-image]: https://img.shields.io/pypi/v/entelecheia
 [pypi-url]: https://pypi.org/project/entelecheia
 [stai-img]: https://img.shields.io/badge/STAI-jeju.ai-blue
@@ -71,7 +72,6 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 </details>
   
-  
 <details>
   <summary>🌐 Language and Topics Trajectory</summary>
   
@@ -82,5 +82,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
     <img width=49% align="center" src="https://stats.quine.sh/entelecheia/languages-over-time?theme=dark" />
   </a>
 </details>
+
+#### 📇 Link with me on [![linkedin-img]][linkedin-url]
 
 [![1648330290418](https://github.com/entelecheia/entelecheia/assets/1177283/583b0ea7-359a-429b-8c4e-138fd175497e)](https://www.linkedin.com/in/entelecheia/)
