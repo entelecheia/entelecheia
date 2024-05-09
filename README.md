@@ -10,6 +10,7 @@
 
 <!-- [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url] -->
+![](https://hit.yhype.me/github/profile?user_id=1177283)
 
 [pypi-image]: https://img.shields.io/pypi/v/entelecheia
 [pypi-url]: https://pypi.org/project/entelecheia
