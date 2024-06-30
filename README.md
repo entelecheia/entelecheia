@@ -86,5 +86,5 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 ### 🔗 Link with me on [![linkedin-img]][linkedin-url]
 
-[![1648330290418](https://github.com/entelecheia/entelecheia/assets/1177283/583b0ea7-359a-429b-8c4e-138fd175497e)][linkedin-url]
+[![1648330290418](https://assets.entelecheia.ai/img/linkedin-bg.jpeg)][linkedin-url]
 ![](https://hit.yhype.me/github/profile?user_id=1177283)
