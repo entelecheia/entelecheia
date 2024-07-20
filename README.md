@@ -40,15 +40,20 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 ### Hi there, I'm Young Joon Lee 👋
 
-🏫 I am an Assistant Professor of Artificial Intelligence Engineering at Cheju Halla University in Jeju, Korea. I specialize in integrating Artificial Intelligence, Machine Learning, and Natural Language Processing to transform finance and economics.
+🏫 I am an Assistant Professor of Artificial Intelligence Engineering and Chief Innovation Officer at Cheju Halla University in Jeju, Korea. My work spans diverse fields, integrating Artificial Intelligence, Machine Learning, and Natural Language Processing to drive innovation across multiple sectors.
 
-🔍 My research involves creating sophisticated AI models that enhance decision-making accuracy and efficiency in financial sectors.
+🔍 My research focuses on developing cutting-edge AI solutions for real-world challenges. Recent projects include:
 
-🌱 I’m committed to educating and inspiring the next generation of AI professionals, preparing them to excel at the forefront of AI and finance intersections.
+- Creating an AI-powered virtual physician to enhance healthcare delivery
+- Pioneering AI technologies for robotic portrait drawing and visual media arts
+- Developing sophisticated NLP models for various industry applications
+- Exploring AI's potential in sustainable practices and ESG analysis
 
-🤝 I'm eager to collaborate with peers, industry experts, and organizations interested in utilizing AI to revolutionize financial practices and drive innovation.
+🌱 I'm passionate about nurturing the next generation of AI professionals. I teach a comprehensive range of AI engineering courses, from NLP and MLOps to Robotics and Operating Systems, while mentoring students in innovative research projects.
 
-💬 Feel free to connect with me to explore how we can shape the future of finance together with cutting-edge AI solutions.
+🤝 Also, I'm working to integrate AI into various aspects of Jeju's cultural and economic landscape. I'm always eager to collaborate on projects that push the boundaries of AI applications.
+
+💬 Feel free to connect with me to explore how we can leverage AI to create impactful solutions across different fields and industries.
 
 #### 📈 GitHub Statistics
 
