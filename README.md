@@ -19,8 +19,8 @@
 [playground-url]: https://entelecheia.cloudflareaccess.com
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
 [halla-url]: https://halla.ai
-[home-img]: https://img.shields.io/badge/home-entelecheia.me-blue
-[home-url]: https://entelecheia.me
+[home-img]: https://img.shields.io/badge/home-jeju.ai-blue
+[home-url]: https://home.jeju.ai
 [home-repo-url]: https://entelecheia.me/repositories
 [course-img]: https://img.shields.io/badge/course-jeju.ai-blue
 [course-url]: https://course.jeju.ai
