@@ -4,8 +4,8 @@
 [![stai-img]][stai-url]
 [![halla-img]][halla-url]
 [![home-img]][home-url]
+[![course-img]][course-url]
 [![lecture-img]][lecture-url]
-[![research-img]][research-url]
 [![playground-img]][playground-url]
 
 <!-- [![stateful-img]][stateful-url]
