@@ -1,11 +1,11 @@
 # ἐντελέχεια 【en.te.lé.kʰeː.a】
 
 [![pypi-image]][pypi-url]
+[![home-img]][home-url]
 [![stai-img]][stai-url]
 [![halla-img]][halla-url]
-[![home-img]][home-url]
+[![course-img]][course-url]
 [![lecture-img]][lecture-url]
-[![research-img]][research-url]
 [![playground-img]][playground-url]
 
 <!-- [![stateful-img]][stateful-url]
@@ -19,15 +19,15 @@
 [playground-url]: https://entelecheia.cloudflareaccess.com
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
 [halla-url]: https://halla.ai
-[home-img]: https://img.shields.io/badge/home-entelecheia.me-blue
-[home-url]: https://entelecheia.me
-[home-repo-url]: https://entelecheia.me/repositories
-[course-img]: https://img.shields.io/badge/course-entelecheia.ai-blue
-[course-url]: https://course.entelecheia.ai
-[lecture-img]: https://img.shields.io/badge/lecture-entelecheia.ai-blue
-[lecture-url]: https://lecture.entelecheia.ai
-[research-img]: https://img.shields.io/badge/research-entelecheia.ai-blue
-[research-url]: https://research.entelecheia.ai
+[home-img]: https://img.shields.io/badge/youngjoon-lee-blue
+[home-url]: https://youngjoon-lee.com
+[home-repo-url]: https://youngjoon-lee.com/repositories
+[course-img]: https://img.shields.io/badge/course-jeju.ai-blue
+[course-url]: https://course.jeju.ai
+[lecture-img]: https://img.shields.io/badge/lecture-jeju.ai-blue
+[lecture-url]: https://lecture.jeju.ai
+[research-img]: https://img.shields.io/badge/research-jeju.ai-blue
+[research-url]: https://research.jeju.ai
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/entelecheia/
 [stateful-img]: https://badge.stateful.com/entelecheia/status.svg
@@ -60,7 +60,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 <details>
   <summary>📊 GitHub Stats</summary>
 
-  <a href="https://entelecheia.me/repositories/">
+  <a href="https://youngjoon-lee.com/repositories/">
     <img width=49% align="center" src="http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true" />
     <img width=49% align="center" src="http://github-readme-stats.entelecheia.me/api?username=entelecheia&theme=transparent&show_icons=true&hide_border=true&hide_title=true" />
   </a>
@@ -91,5 +91,5 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 ### 🔗 Link with me on [![linkedin-img]][linkedin-url]
 
-[![1648330290418](https://assets.entelecheia.ai/img/linkedin-bg.jpeg)][linkedin-url]
+[![1648330290418](https://assets.entelecheia.ai/img/github-bg.jpeg)][linkedin-url]
 ![](https://hit.yhype.me/github/profile?user_id=1177283)

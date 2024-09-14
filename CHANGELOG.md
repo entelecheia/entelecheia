@@ -1,5 +1,11 @@
 <!--next-version-placeholder-->
 
+## v0.3.3 (2024-07-20)
+
+### Fix
+
+* **dependencies:** Update multiple dependencies in poetry.lock ([`7099ee4`](https://github.com/entelecheia/entelecheia/commit/7099ee480790bb9238029fa5d4c5e15ec2f9f96e))
+
 ## v0.3.2 (2024-04-21)
 
 ### Fix
