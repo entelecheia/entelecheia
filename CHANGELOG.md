@@ -1,5 +1,12 @@
 <!--next-version-placeholder-->
 
+## v0.3.4 (2024-09-14)
+
+### Fix
+
+* **docs:** Update documentation URLs to youngjoon-lee.com ([`f70c640`](https://github.com/entelecheia/entelecheia/commit/f70c6403cdc854d8875b266c0b4aa33e9320c95c))
+* **docs:** Update repository URL in README.md ([`ea0e505`](https://github.com/entelecheia/entelecheia/commit/ea0e50504ca9c53ee207b793d6d3077fb9145aa4))
+
 ## v0.3.3 (2024-07-20)
 
 ### Fix
