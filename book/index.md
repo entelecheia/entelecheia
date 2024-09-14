@@ -22,14 +22,14 @@
 
 [repo-url]: https://github.com/entelecheia/entelecheia
 [pypi-url]: https://pypi.org/project/entelecheia
-[docs-url]: https://entelecheia.me
+[docs-url]: https://youngjoon-lee.com
 [changelog]: https://github.com/entelecheia/entelecheia/blob/main/CHANGELOG.md
 [contributing guidelines]: https://github.com/entelecheia/entelecheia/blob/main/CONTRIBUTING.md
 <!-- Links: -->
 
 ἐντελέχεια is coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
-- Documentation: [https://entelecheia.me][docs-url]
+- Documentation: [https://youngjoon-lee.com][docs-url]
 - GitHub: [https://github.com/entelecheia/entelecheia][repo-url]
 - PyPI: [https://pypi.org/project/entelecheia][pypi-url]
 
