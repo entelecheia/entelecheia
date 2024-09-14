@@ -1,9 +1,9 @@
 # ἐντελέχεια 【en.te.lé.kʰeː.a】
 
 [![pypi-image]][pypi-url]
+[![home-img]][home-url]
 [![stai-img]][stai-url]
 [![halla-img]][halla-url]
-[![home-img]][home-url]
 [![course-img]][course-url]
 [![lecture-img]][lecture-url]
 [![playground-img]][playground-url]
@@ -19,8 +19,8 @@
 [playground-url]: https://entelecheia.cloudflareaccess.com
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
 [halla-url]: https://halla.ai
-[home-img]: https://img.shields.io/badge/home-jeju.ai-blue
-[home-url]: https://home.jeju.ai
+[home-img]: https://img.shields.io/badge/youngjoon-lee-blue
+[home-url]: https://youngjoon-lee.com
 [home-repo-url]: https://entelecheia.me/repositories
 [course-img]: https://img.shields.io/badge/course-jeju.ai-blue
 [course-url]: https://course.jeju.ai
