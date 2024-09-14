@@ -21,7 +21,7 @@
 [halla-url]: https://halla.ai
 [home-img]: https://img.shields.io/badge/youngjoon-lee-blue
 [home-url]: https://youngjoon-lee.com
-[home-repo-url]: https://entelecheia.me/repositories
+[home-repo-url]: https://youngjoon-lee.com/repositories
 [course-img]: https://img.shields.io/badge/course-jeju.ai-blue
 [course-url]: https://course.jeju.ai
 [lecture-img]: https://img.shields.io/badge/lecture-jeju.ai-blue
@@ -60,7 +60,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 <details>
   <summary>📊 GitHub Stats</summary>
 
-  <a href="https://entelecheia.me/repositories/">
+  <a href="https://youngjoon-lee.com/repositories/">
     <img width=49% align="center" src="http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true" />
     <img width=49% align="center" src="http://github-readme-stats.entelecheia.me/api?username=entelecheia&theme=transparent&show_icons=true&hide_border=true&hide_title=true" />
   </a>
