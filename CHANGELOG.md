@@ -1,5 +1,62 @@
 <!--next-version-placeholder-->
 
+## v0.3.5 (2024-11-25)
+
+### Bug Fixes
+
+- Update pyproject.toml for semantic release configuration and dependency versions
+  ([`0ec0f04`](https://github.com/entelecheia/entelecheia/commit/0ec0f049404ea1b2b04ca8273077f63573005f28))
+
+- Update release workflow to trigger on push and streamline release steps
+  ([`08d5d64`](https://github.com/entelecheia/entelecheia/commit/08d5d644166ab456254516d11620e8b2c592b4bf))
+
+### Chores
+
+- **deps**: Bump codecov/codecov-action from 4 to 5
+  ([`3d8a4b8`](https://github.com/entelecheia/entelecheia/commit/3d8a4b819fde0422b9aaf674340eac0a5067a2df))
+
+Bumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 4 to 5. - [Release
+  notes](https://github.com/codecov/codecov-action/releases) -
+  [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md) -
+  [Commits](https://github.com/codecov/codecov-action/compare/v4...v5)
+
+--- updated-dependencies: - dependency-name: codecov/codecov-action dependency-type:
+  direct:production update-type: version-update:semver-major ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+- **deps**: Bump hyfi from 1.36.4 to 1.37.0
+  ([`dd4dd60`](https://github.com/entelecheia/entelecheia/commit/dd4dd60ef3ee56023e4752ebbf103d616213c384))
+
+Bumps [hyfi](https://github.com/entelecheia/hyfi) from 1.36.4 to 1.37.0. - [Release
+  notes](https://github.com/entelecheia/hyfi/releases) -
+  [Changelog](https://github.com/entelecheia/hyfi/blob/main/CHANGELOG.md) -
+  [Commits](https://github.com/entelecheia/hyfi/compare/v1.36.4...v1.37.0)
+
+--- updated-dependencies: - dependency-name: hyfi dependency-type: direct:production update-type:
+  version-update:semver-minor ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+- **deps**: Bump jupyter-book from 1.0.2 to 1.0.3
+  ([`82f7a55`](https://github.com/entelecheia/entelecheia/commit/82f7a55d86111f6c439f4ca359beab782be85234))
+
+Bumps [jupyter-book](https://github.com/executablebooks/jupyter-book) from 1.0.2 to 1.0.3. -
+  [Release notes](https://github.com/executablebooks/jupyter-book/releases) -
+  [Changelog](https://github.com/jupyter-book/jupyter-book/blob/main/CHANGELOG.md) -
+  [Commits](https://github.com/executablebooks/jupyter-book/compare/v1.0.2...v1.0.3)
+
+--- updated-dependencies: - dependency-name: jupyter-book dependency-type: direct:production
+  update-type: version-update:semver-patch ...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+### Documentation
+
+- Update personal introduction and research focus in README.md
+  ([`fb7536c`](https://github.com/entelecheia/entelecheia/commit/fb7536c285aa3ae975a9cb3eb112d7e4511a4f82))
+
+
 ## v0.3.4 (2024-09-14)
 
 ### Fix
