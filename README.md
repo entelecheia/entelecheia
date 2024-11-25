@@ -40,20 +40,39 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 ### Hi there, I'm Young Joon Lee 👋
 
-🏫 I am an Assistant Professor of Artificial Intelligence Engineering and Chief Innovation Officer at Cheju Halla University in Jeju, Korea. My work spans diverse fields, integrating Artificial Intelligence, Machine Learning, and Natural Language Processing to drive innovation across multiple sectors.
+🎓 I'm an Assistant Professor of Artificial Ingtelligence and Chief Innovation Officer at Cheju Halla University, where I bridge the gap between cutting-edge AI research and real-world applications. My work thrives at the intersection of artificial intelligence, natural language processing, and financial economics.
 
-🔍 My research focuses on developing cutting-edge AI solutions for real-world challenges. Recent projects include:
+🔍 My research focuses on developing innovative AI solutions in several key areas:
 
-- Creating an AI-powered virtual physician to enhance healthcare delivery
-- Pioneering AI technologies for robotic portrait drawing and visual media arts
-- Developing sophisticated NLP models for various industry applications
-- Exploring AI's potential in sustainable practices and ESG analysis
+- Large Language Models and Knowledge Graphs
+- NLP models for economic analysis
+- Ethical AI frameworks emphasizing fairness and transparency
+- Behavioral economics-inspired AI decision-making systems
 
-🌱 I'm passionate about nurturing the next generation of AI professionals. I teach a comprehensive range of AI engineering courses, from NLP and MLOps to Robotics and Operating Systems, while mentoring students in innovative research projects.
+🌱 I'm passionate about shaping the future of AI education through:
 
-🤝 Also, I'm working to integrate AI into various aspects of Jeju's cultural and economic landscape. I'm always eager to collaborate on projects that push the boundaries of AI applications.
+- Mentoring the next generation of AI researchers and engineers
+- Teaching courses that balance theoretical foundations with practical applications
+- Fostering an environment where innovation meets ethical consideration
+- Encouraging students to think critically about AI's societal impact
 
-💬 Feel free to connect with me to explore how we can leverage AI to create impactful solutions across different fields and industries.
+🤝 Currently leading initiatives in:
+
+- AI Computing Center development at Cheju Halla University
+- Regional innovation projects integrating AI into Jeju's cultural landscape
+- International collaborations for AI education and research
+- Sustainable AI practices and ESG analysis
+
+💡 Core Values:
+
+- Innovation in pushing AI boundaries
+- Empathy in developing human-centered AI systems
+- Collaboration across academia and industry
+- Continuous learning and adaptation
+
+💬 I'm always open to discussing collaborations that align with my mission of redefining the future of finance and sustainability through ethical AI innovation. Let's connect and explore how we can create impactful solutions together!
+
+Feel free to reach out if you're interested in AI, NLP, financial technology, or ethical AI development!
 
 #### 📈 GitHub Statistics
 
@@ -74,7 +93,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
   
   [![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)][home-repo-url]
 
-  [![3d contributions](https://raw.githubusercontent.com/entelecheia/metrics/main/profile-3d-contrib/profile-entelecheia.svg)][home-repo-url]
+[![3d contributions](https://raw.githubusercontent.com/entelecheia/metrics/main/profile-3d-contrib/profile-entelecheia.svg)][home-repo-url]
 
 </details>
   
