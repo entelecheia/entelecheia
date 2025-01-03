@@ -40,7 +40,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 ### Hi there, I'm Young Joon Lee 👋
 
-🎓 I'm an Associate Professor of Artificial Ingtelligence and Chief Innovation Officer at Cheju Halla University, where I bridge the gap between cutting-edge AI research and real-world applications. My work thrives at the intersection of artificial intelligence, natural language processing, and financial economics.
+🎓 I'm an Associate Professor of Artificial Intelligence and Chief Innovation Officer at Cheju Halla University, where I bridge the gap between cutting-edge AI research and real-world applications. My work thrives at the intersection of artificial intelligence, natural language processing, and financial economics.
 
 🔍 My research focuses on developing innovative AI solutions in several key areas:
 
