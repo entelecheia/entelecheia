@@ -111,4 +111,3 @@ Feel free to reach out if you're interested in AI, NLP, financial technology, or
 ### 🔗 Link with me on [![linkedin-img]][linkedin-url]
 
 [![1648330290418](https://assets.entelecheia.ai/img/github-bg.jpeg)][linkedin-url]
-![](https://hit.yhype.me/github/profile?user_id=1177283)
