@@ -96,17 +96,6 @@ Feel free to reach out if you're interested in AI, NLP, financial technology, or
 [![3d contributions](https://raw.githubusercontent.com/entelecheia/metrics/main/profile-3d-contrib/profile-entelecheia.svg)][home-repo-url]
 
 </details>
-  
-<details>
-  <summary>🌐 Language and Topics Trajectory</summary>
-  
-  <a href="https://www.quine.sh/user/entelecheia">
-    <img width=49% align="center" src="https://stats.quine.sh/entelecheia/topics-over-time?theme=dark" />
-  </a>
-  <a href="https://www.quine.sh/user/entelecheia">
-    <img width=49% align="center" src="https://stats.quine.sh/entelecheia/languages-over-time?theme=dark" />
-  </a>
-</details>
 
 ### 🔗 Link with me on [![linkedin-img]][linkedin-url]
 
