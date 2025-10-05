@@ -38,41 +38,79 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 [![entelecheia](https://github.com/entelecheia/entelecheia/assets/1177283/0a67c698-8c9e-4006-b131-d0593cd7c256)][home-url]
 
-### Hi there, I'm Young Joon Lee 👋
+### 👋 Hi there, I'm **Young Joon Lee (이영준)**
 
-🎓 I'm an Associate Professor of Artificial Intelligence and Chief Innovation Officer at Cheju Halla University, where I bridge the gap between cutting-edge AI research and real-world applications. My work thrives at the intersection of artificial intelligence, natural language processing, and financial economics.
+🎓 Associate Professor of Artificial Intelligence
+💼 Chief Innovation Officer, Cheju Halla University
+🌍 Regional Innovation & Global AI Education Leader
 
-🔍 My research focuses on developing innovative AI solutions in several key areas:
+🧠 About Me
 
-- Large Language Models and Knowledge Graphs
-- NLP models for economic analysis
-- Ethical AI frameworks emphasizing fairness and transparency
-- Behavioral economics-inspired AI decision-making systems
+I’m an educator, researcher, and innovator at the intersection of **Artificial Intelligence**, **Natural Language Processing (NLP)**, and **Financial Economics**.
+My mission is to connect **cutting-edge AI research** with real-world challenges — developing models that reason ethically, explain transparently, and serve humanity responsibly.
 
-🌱 I'm passionate about shaping the future of AI education through:
+🔬 Research Focus
 
-- Mentoring the next generation of AI researchers and engineers
-- Teaching courses that balance theoretical foundations with practical applications
-- Fostering an environment where innovation meets ethical consideration
-- Encouraging students to think critically about AI's societal impact
+- **Large Language Models & Knowledge Graphs** — advancing _Agentic AI_ and Socratic reasoning architectures
+- **NLP for Economic & Financial Analysis** — measuring policy effects through sentiment and media signals
+- **Ethical AI** — frameworks for fairness, accountability, and transparency in AI systems
+- **Behavioral Economics-Inspired AI** — modeling rational and bounded-rational decision systems
 
-🤝 Currently leading initiatives in:
+🚀 Leadership & Flagship Projects
 
-- AI Computing Center development at Cheju Halla University
-- Regional innovation projects integrating AI into Jeju's cultural landscape
-- International collaborations for AI education and research
-- Sustainable AI practices and ESG analysis
+🦾 AI-Based Autonomous Road Repair Robot
 
-💡 Core Values:
+Leading a consortium with **Seoul National University**, **KAIST**, and **RoboRoad** to build the world’s first **AI-powered autonomous road repair system**, integrating visual intelligence, robotics, and predictive maintenance.
+_(Source: Yonhap News, Sept 2025)_
 
-- Innovation in pushing AI boundaries
-- Empathy in developing human-centered AI systems
-- Collaboration across academia and industry
-- Continuous learning and adaptation
+🧩 Agentic AI-Based Intelligent Education Platform
 
-💬 I'm always open to discussing collaborations that align with my mission of redefining the future of finance and sustainability through ethical AI innovation. Let's connect and explore how we can create impactful solutions together!
+Directing a 4-way collaboration (**Cheju Halla University × Saltlux × Yonsei University × KAIST**) to create a next-generation learning system using **trustworthy, dialogic AI** for human-AI co-reasoning.
+_(Source: News Jeju, Sept 2025)_
 
-Feel free to reach out if you're interested in AI, NLP, financial technology, or ethical AI development!
+🌐 KOICA–TIU–Cheju Halla AI Training Center (Uzbekistan)
+
+Project Director for KOICA’s first **AI Education Center** in Central Asia, training over 100 local educators and engineers in ethical AI, GenAI, and data literacy.
+_(Source: NewsNJeju, Aug 2025)_
+
+💻 Sustainable Transition with AI (STAI)
+
+Leading a global workshop series linking **AI, ESG, and climate resilience**, fostering sustainable innovation strategies for public and private sectors.
+
+🌄 Jeju AI Computing & Innovation Ecosystem
+
+Establishing the **Jeju AI Innovation Cluster** through partnerships with **ESTsoft**, **AWS**, **Saltlux**, and regional industries to nurture next-generation AI professionals and startups.
+
+📊 Economic Research & Media Impact
+
+My interdisciplinary work integrates **AI-based text mining** and **monetary policy analysis**, exploring how linguistic tone in central-bank communications affects financial markets.
+In **August 2025**, _AjuNews_ featured my joint research (_with Soohyon Kim and Ki Young Park_) on _“News-Based Monetary Policy Surprises.”_
+The study showed that **tone shifts in monetary policy news**—not just interest-rate changes—trigger measurable moves in bond yields and credit spreads, influencing both investor and consumer expectations.
+
+This line of research highlights how **AI and NLP can reveal latent economic signals**, providing policymakers and analysts with new tools for real-time macroeconomic insight.
+
+🎓 Education & Mentorship
+
+- Designing **AI curricula** blending rigorous theory with applied innovation
+- Mentoring students in **LLM fine-tuning, NLP system design, and AI ethics**
+- Leading **cross-cultural AI education initiatives** in Jeju, Uzbekistan, and beyond
+
+💡 Core Values
+
+I believe that **innovation** must be human-centered and value-driven.
+Every research and teaching initiative I lead is guided by **empathy**, ensuring that technology amplifies inclusion rather than inequality.
+I pursue **collaboration** across academia, industry, and government to turn ideas into impact.
+And I remain committed to **sustainability**—designing AI systems and educational ecosystems that endure ethically and socially.
+
+🌏 Vision
+
+To redefine the future of **education, finance, and sustainability** through **ethical AI innovation**—building technologies that not only think intelligently but **act responsibly**.
+
+📫 **Let’s Connect**
+
+- ✉️ [yj.lee@chu.ac.kr](mailto:yj.lee@chu.ac.kr)
+- 🌐 [Cheju Halla University AI Department](https://halla.ai)
+- 🔗 [LinkedIn](https://linkedin.com/in/youngjoonlee-ai) | [GitHub](https://github.com/entelecheia)
 
 #### 📈 GitHub Statistics
 
