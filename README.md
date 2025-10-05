@@ -84,7 +84,7 @@ Establishing the **Jeju AI Innovation Cluster** through partnerships with **ESTs
 📊 Economic Research & Media Impact
 
 My interdisciplinary work integrates **AI-based text mining** and **monetary policy analysis**, exploring how linguistic tone in central-bank communications affects financial markets.
-In **August 2025**, _AjuNews_ featured my joint research (_with Soohyon Kim and Ki Young Park_) on _“News-Based Monetary Policy Surprises.”_
+In **August 2025**, _AjuNews_ featured my joint research on _“News-Based Monetary Policy Surprises.”_
 The study showed that **tone shifts in monetary policy news**—not just interest-rate changes—trigger measurable moves in bond yields and credit spreads, influencing both investor and consumer expectations.
 
 This line of research highlights how **AI and NLP can reveal latent economic signals**, providing policymakers and analysts with new tools for real-time macroeconomic insight.
