@@ -60,7 +60,7 @@ My mission is to connect **cutting-edge AI research** with real-world challenges
 
 🦾 AI-Based Autonomous Road Repair Robot
 
-Leading a consortium with **Seoul National University**, **KAIST**, and **RoboRoad** to build the world’s first **AI-powered autonomous road repair system**, integrating visual intelligence, robotics, and predictive maintenance.
+Leading a consortium with **Seoul National University**, **KAIST**, and **RovoRoad** to build the world’s first **AI-powered autonomous road repair system**, integrating visual intelligence, robotics, and predictive maintenance.
 _(Source: Yonhap News, Sept 2025)_
 
 🧩 Agentic AI-Based Intelligent Education Platform
