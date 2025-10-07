@@ -41,7 +41,7 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 ### 👋 Hi there, I'm **Young Joon Lee (이영준)**
 
 🎓 Associate Professor of Artificial Intelligence
-💼 Chief Innovation Officer, Cheju Halla University
+💼 Chief Innovation Officer
 🌍 Regional Innovation & Global AI Education Leader
 
 🧠 About Me
