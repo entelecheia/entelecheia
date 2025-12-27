@@ -22,8 +22,8 @@
 [home-img]: https://img.shields.io/badge/youngjoon-lee-blue
 [home-url]: https://youngjoon-lee.com
 [home-repo-url]: https://youngjoon-lee.com/repositories
-[course-img]: https://img.shields.io/badge/course-jeju.ai-blue
-[course-url]: https://course.jeju.ai
+[course-img]: https://img.shields.io/badge/courses-jeju.ai-blue
+[course-url]: https://courses.jeju.ai
 [lecture-img]: https://img.shields.io/badge/lecture-jeju.ai-blue
 [lecture-url]: https://lecture.jeju.ai
 [research-img]: https://img.shields.io/badge/research-jeju.ai-blue
