@@ -22,26 +22,19 @@ help:  ## Display this help
 
 ##@ Clean-up
 
-clean: ## run all clean commands
-	@poe clean
+clean-cov: ## remove coverage reports
+	@rm -rf .coverage* tests/htmlcov tests/pytest.xml tests/pytest-coverage.txt
 
-##@ Git Branches
+clean-pycache: ## remove __pycache__ directories
+	@find . -type d -name __pycache__ -exec rm -rf {} + || true
 
-show-branches: ## show all branches
-	@git show-branch --list
+clean-build: ## remove build/python artifacts
+	@rm -rf build dist *.egg-info
 
-dev-checkout: ## checkout the dev branch
-	@branch=$(shell echo $${branch:-"dev"}) && \
-	    git show-branch --list | grep -q $${branch} && \
-		git checkout $${branch}
+clean-docs: ## remove documentation artifacts
+	@rm -rf book/_build docs/_build _site
 
-dev-checkout-upstream: ## create and checkout the dev branch, and set the upstream
-	@branch=$(shell echo $${branch:-"dev"}) && \
-		git checkout -B $${branch} && \
-		git push --set-upstream origin $${branch} || true
-
-main-checkout: ## checkout the main branch
-	@git checkout main
+clean: clean-cov clean-pycache clean-build clean-docs ## remove build artifacts and coverage reports
 
 ##@ Utilities
 
@@ -59,32 +52,11 @@ gc-prune: ## garbage collect and prune
 
 ##@ Setup
 
-install-node: ## install node
-	@export NVM_DIR="$${HOME}/.nvm"; \
-	[ -s "$${NVM_DIR}/nvm.sh" ] && . "$${NVM_DIR}/nvm.sh"; \
-	nvm install --lts
-
-nvm-ls: ## list node versions
-	@export NVM_DIR="$${HOME}/.nvm"; \
-	[ -s "$${NVM_DIR}/nvm.sh" ] && . "$${NVM_DIR}/nvm.sh"; \
-	nvm ls
-
-set-default-node: ## set default node
-	@export NVM_DIR="$${HOME}/.nvm"; \
-	[ -s "$${NVM_DIR}/nvm.sh" ] && . "$${NVM_DIR}/nvm.sh"; \
-	nvm alias default node
-
 install-pipx: ## install pipx (pre-requisite for external tools)
 	@command -v pipx &> /dev/null || pip install --user pipx || true
 
-install-copier: install-pipx ## install copier (pre-requisite for init-project)
-	@command -v copier &> /dev/null || pipx install copier || true
-
-install-poetry: install-pipx ## install poetry (pre-requisite for install)
-	@command -v poetry &> /dev/null || pipx install poetry || true
-
-install-poe: install-pipx ## install poetry (pre-requisite for install)
-	@command -v poe &> /dev/null || pipx install poethepoet || true
+install-uv: install-pipx ## install uv (pre-requisite for install)
+	@command -v uv &> /dev/null || pipx install uv || true
 
 install-commitzen: install-pipx ## install commitzen (pre-requisite for commit)
 	@command -v cz &> /dev/null || pipx install commitizen || true
@@ -95,22 +67,8 @@ install-precommit: install-pipx ## install pre-commit
 install-precommit-hooks: install-precommit ## install pre-commit hooks
 	@pre-commit install
 
-mkvirtualenv: ## create the project environment
-	@python3 -m venv "$$WORKON_HOME/entelecheia"
-	@. "$$WORKON_HOME/entelecheia/bin/activate"
-	@pip install --upgrade pip setuptools wheel
-
-mkvirtualenv-system: ## create the project environment with system site packages
-	@python3 -m venv "$$WORKON_HOME/entelecheia" --system-site-packages
-	@. "$$WORKON_HOME/entelecheia/bin/activate"
-	@pip install --upgrade pip setuptools wheel
-
-workon: ## activate the project environment
-	@. "$$WORKON_HOME/entelecheia/bin/activate"
-
 initialize: install-pipx ## initialize the project environment
 	@pipx install copier
-	@pipx install poethepoet
 	@pipx install commitizen
 	@pipx install pre-commit
 	@pre-commit install
@@ -120,3 +78,90 @@ init-project: initialize remove-template ## initialize the project (Warning: do 
 
 reinit-project: install-copier ## reinitialize the project (Warning: this may overwrite existing files!)
 	@bash -c 'args=(); while IFS= read -r file; do args+=("--skip" "$$file"); done < .copierignore; copier copy --trust "$${args[@]}" --data 'code_template_source=gh:entelecheia/hyfi-template' --answers-file .copier-config.yaml gh:entelecheia/hyperfast-python-template .'
+
+##@ Format
+
+format-black: ## format code with black
+	@uv run black .
+
+format-isort: ## sort imports with isort
+	@uv run isort .
+
+format: format-black format-isort ## format code with black and isort
+
+##@ Lint
+
+lint-black: ## check code formatting with black
+	@uv run black --check --diff .
+
+lint-flake8: ## check code style with flake8
+	@uv run flake8 .
+
+lint-isort: ## check import sorting with isort
+	@uv run isort --check-only --diff .
+
+lint-mypy: ## check types with mypy
+	@uv run mypy --config-file pyproject.toml .
+
+lint-mypy-reports: ## generate an HTML report of the type (mypy) checker
+	@uv run mypy --config-file pyproject.toml . --html-report ./tests/mypy-report
+
+lint: lint-black lint-flake8 lint-isort ## check code style with flake8, black, and isort
+
+##@ Testing
+
+tests: ## run tests with pytest
+	@uv run pytest --doctest-modules
+
+tests-cov: ## run tests with pytest and generate a coverage report
+	@uv run pytest --cov=src --cov-report=xml
+
+tests-cov-fail: ## run tests with pytest and generate a coverage report, fail if coverage is below 50%
+	@uv run pytest --cov=src --cov-report=xml --cov-fail-under=50 --junitxml=tests/pytest.xml | tee tests/pytest-coverage.txt
+
+##@ Build & Install
+
+build: ## build the package
+	@uv build
+
+install: install-uv ## install dependencies
+	@uv sync --no-dev
+
+install-dev: install-uv ## install dev dependencies
+	@uv sync --dev
+
+update: install-uv ## update dependencies
+	@uv lock --upgrade
+	@uv sync
+
+lock: install-uv ## lock dependencies
+	@uv lock
+
+run: ## run the main program
+	@uv run entelecheia
+
+##@ Documentation
+
+install-ghp-import: install-pipx ## install ghp-import
+	@pipx install ghp-import
+
+install-jupyter-book-pipx: install-pipx ## install jupyter-book with pipx
+	@pipx install jupyter-book
+	@pipx inject jupyter-book $$(awk '{if(!/^ *#/ && NF) print}' book/requirements.txt)
+
+install-jupyter-book: ## install jupyter-book
+	@pip install -r book/requirements.txt
+
+book-build: ## build the book
+	@jupyter-book build book
+
+book-build-all: ## build the book with all outputs
+	@jupyter-book build book --all
+
+book-publish: install-ghp-import ## publish the book
+	@ghp-import -n -p -f book/_build/html
+
+##@ Utilities
+
+codecov-validate: ## Validate codecov.yml
+	@curl -X POST --data-binary @codecov.yml https://codecov.io/validate

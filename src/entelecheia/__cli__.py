@@ -1,11 +1,11 @@
 """Command line interface for entelecheia"""
 
-from hyfi import hyfi_main
+from . import __version__
 
 
 def main() -> None:
     """Main function for the CLI"""
-    hyfi_main()
+    print(__version__)
 
 
 if __name__ == "__main__":
