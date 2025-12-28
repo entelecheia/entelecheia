@@ -1,6 +1,6 @@
 [project]
 name = "entelecheia"
-version = "0.3.5"
+version = "0.3.6"
 description = """ἐντελέχεια is coined by Aristotle from ἐντελής (entelḗs, "complete, full, accomplished") + ἔχειν (ékhein, "have, hold")."""
 authors = [{name = "Young Joon Lee", email = "entelecheia@hotmail.com"}]
 license = {text = "MIT"}
