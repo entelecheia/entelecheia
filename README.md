@@ -13,8 +13,8 @@
 
 [pypi-image]: https://img.shields.io/pypi/v/entelecheia
 [pypi-url]: https://pypi.org/project/entelecheia
-[stai-img]: https://img.shields.io/badge/STAI-jeju.ai-blue
-[stai-url]: https://stai.jeju.ai
+[stai-img]: https://img.shields.io/badge/STAI-ws-blue
+[stai-url]: https://stai.ws
 [playground-img]: https://img.shields.io/badge/playground-app_launcher-blue
 [playground-url]: https://entelecheia.cloudflareaccess.com
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
@@ -24,8 +24,8 @@
 [home-repo-url]: https://youngjoon-lee.com/repositories
 [course-img]: https://img.shields.io/badge/courses-jeju.ai-blue
 [course-url]: https://courses.jeju.ai
-[lecture-img]: https://img.shields.io/badge/lecture-jeju.ai-blue
-[lecture-url]: https://lecture.jeju.ai
+[lecture-img]: https://img.shields.io/badge/lectures-jeju.ai-blue
+[lecture-url]: https://lectures.jeju.ai
 [research-img]: https://img.shields.io/badge/research-jeju.ai-blue
 [research-url]: https://research.jeju.ai
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin
