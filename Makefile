@@ -125,10 +125,10 @@ build: ## build the package
 	@uv build
 
 install: install-uv ## install dependencies
-	@uv sync --no-dev
+	@uv sync --no-extra dev
 
 install-dev: install-uv ## install dev dependencies
-	@uv sync --dev
+	@uv sync --extra dev
 
 update: install-uv ## update dependencies
 	@uv lock --upgrade

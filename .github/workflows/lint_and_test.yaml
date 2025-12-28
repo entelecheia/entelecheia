@@ -41,7 +41,7 @@ jobs:
 
       # install dependencies
       - name: Install dependencies for linters
-        run: uv sync --dev
+        run: uv sync --extra dev
 
       # run linters
       - name: Run linters

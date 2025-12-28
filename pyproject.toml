@@ -53,6 +53,7 @@ skip = [
   'docs',
   'tests',
   'venv',
+  '.venv',
   '.copier-template',
   '.refs',
 ]
@@ -65,6 +66,7 @@ exclude = [
   "docs",
   "tests",
   "venv",
+  ".venv",
   ".copier-template",
   ".refs",
 ]
