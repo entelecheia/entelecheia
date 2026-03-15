@@ -4,9 +4,8 @@
 [![home-img]][home-url]
 [![stai-img]][stai-url]
 [![halla-img]][halla-url]
-[![course-img]][course-url]
-[![lecture-img]][lecture-url]
-[![playground-img]][playground-url]
+[![rise-img]][rise-url]
+[![staix-img]][staix-url]
 
 <!-- [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url] -->
@@ -22,10 +21,10 @@
 [home-img]: https://img.shields.io/badge/youngjoon-lee-blue
 [home-url]: https://youngjoon-lee.com
 [home-repo-url]: https://youngjoon-lee.com/repositories
-[course-img]: https://img.shields.io/badge/courses-jeju.ai-blue
-[course-url]: https://courses.jeju.ai
-[lecture-img]: https://img.shields.io/badge/lectures-jeju.ai-blue
-[lecture-url]: https://lectures.jeju.ai
+[rise-img]: https://img.shields.io/badge/rise-jeju.ai-blue
+[rise-url]: https://rise.jeju.ai
+[staix-img]: https://img.shields.io/badge/staix-bwlb-blue
+[staix-url]: https://staixbwlb.com
 [research-img]: https://img.shields.io/badge/research-jeju.ai-blue
 [research-url]: https://research.jeju.ai
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin
