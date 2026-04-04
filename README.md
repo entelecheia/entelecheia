@@ -4,6 +4,7 @@
 [![home-img]][home-url]
 [![stai-img]][stai-url]
 [![halla-img]][halla-url]
+[![koica-tiu-img]][koica-tiu-url]
 [![rise-img]][rise-url]
 [![staix-img]][staix-url]
 
@@ -18,6 +19,8 @@
 [playground-url]: https://entelecheia.cloudflareaccess.com
 [halla-img]: https://img.shields.io/badge/CHU-halla.ai-blue
 [halla-url]: https://halla.ai
+[koica-tiu-img]: https://img.shields.io/badge/KOICA-TIU-blue
+[koica-tiu-url]: https://koica-tiu.halla.ai
 [home-img]: https://img.shields.io/badge/youngjoon-lee-blue
 [home-url]: https://youngjoon-lee.com
 [home-repo-url]: https://youngjoon-lee.com/repositories

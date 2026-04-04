@@ -32,7 +32,7 @@ clean-build: ## remove build/python artifacts
 	@rm -rf build dist *.egg-info
 
 clean-docs: ## remove documentation artifacts
-	@rm -rf book/_build docs/_build _site
+	@rm -rf docs/_build _site
 
 clean: clean-cov clean-pycache clean-build clean-docs ## remove build artifacts and coverage reports
 
@@ -139,27 +139,6 @@ lock: install-uv ## lock dependencies
 
 run: ## run the main program
 	@uv run entelecheia
-
-##@ Documentation
-
-install-ghp-import: install-pipx ## install ghp-import
-	@pipx install ghp-import
-
-install-jupyter-book-pipx: install-pipx ## install jupyter-book with pipx
-	@pipx install jupyter-book
-	@pipx inject jupyter-book $$(awk '{if(!/^ *#/ && NF) print}' book/requirements.txt)
-
-install-jupyter-book: ## install jupyter-book
-	@pip install -r book/requirements.txt
-
-book-build: ## build the book
-	@jupyter-book build book
-
-book-build-all: ## build the book with all outputs
-	@jupyter-book build book --all
-
-book-publish: install-ghp-import ## publish the book
-	@ghp-import -n -p -f book/_build/html
 
 ##@ Utilities
 
