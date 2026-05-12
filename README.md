@@ -1,7 +1,7 @@
 # ἐντελέχεια 【en.te.lé.kʰeː.a】
 
-[![pypi-image]][pypi-url]
 [![home-img]][home-url]
+[![cv-img]][cv-url]
 [![stai-img]][stai-url]
 [![halla-img]][halla-url]
 [![koica-tiu-img]][koica-tiu-url]
@@ -11,8 +11,6 @@
 <!-- [![stateful-img]][stateful-url]
 [![stateful_dnd-img]][stateful-url] -->
 
-[pypi-image]: https://img.shields.io/pypi/v/entelecheia
-[pypi-url]: https://pypi.org/project/entelecheia
 [stai-img]: https://img.shields.io/badge/STAI-ws-blue
 [stai-url]: https://stai.ws
 [playground-img]: https://img.shields.io/badge/playground-app_launcher-blue
@@ -24,6 +22,8 @@
 [home-img]: https://img.shields.io/badge/youngjoon-lee-blue
 [home-url]: https://youngjoon-lee.com
 [home-repo-url]: https://youngjoon-lee.com/repositories
+[cv-img]: https://img.shields.io/badge/CV-EN%2FKR-blue
+[cv-url]: https://youngjoon-lee.com/cv/
 [rise-img]: https://img.shields.io/badge/rise-jeju.ai-blue
 [rise-url]: https://rise.jeju.ai
 [staix-img]: https://img.shields.io/badge/staix-bwlb-blue
@@ -36,6 +36,24 @@
 [stateful-url]: https://app.stateful.com/status/entelecheia
 [stateful_dnd-img]: https://badge.stateful.com/entelecheia/dnd.svg
 
+## CLI
+
+```bash
+# Install with Go 1.22+
+go install github.com/entelecheia/entelecheia@latest
+
+# Or download a prebuilt binary
+# https://github.com/entelecheia/entelecheia/releases
+
+# Try it
+entelecheia                # show intro
+entelecheia open           # open homepage in browser
+entelecheia open cv        # open bilingual CV
+entelecheia open halla     # open halla.ai
+entelecheia links          # list all sites
+entelecheia --version
+```
+
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
 [![entelecheia](https://github.com/entelecheia/entelecheia/assets/1177283/0a67c698-8c9e-4006-b131-d0593cd7c256)][home-url]
@@ -43,8 +61,8 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 ### 👋 Hi there, I'm **Young Joon Lee (이영준)**
 
 🎓 Associate Professor of Artificial Intelligence
-💼 Chief Innovation Officer
-🌍 Regional Innovation & Global AI Education Leader
+💼 Chief AI Officer (CAIO) & Assistant Vice President for AX
+🌍 Regional Innovation, RISE, and Global AI Education Leader
 
 🧠 About Me
 
@@ -112,7 +130,8 @@ To redefine the future of **education, finance, and sustainability** through **e
 
 - ✉️ [yj.lee@chu.ac.kr](mailto:yj.lee@chu.ac.kr)
 - 🌐 [Cheju Halla University AI Department](https://halla.ai)
-- 🔗 [LinkedIn](https://linkedin.com/in/youngjoonlee-ai) | [GitHub](https://github.com/entelecheia)
+- 📄 [CV][cv-url]
+- 🔗 [LinkedIn][linkedin-url] | [GitHub](https://github.com/entelecheia)
 
 #### 📈 GitHub Statistics
 
