@@ -36,24 +36,6 @@
 [stateful-url]: https://app.stateful.com/status/entelecheia
 [stateful_dnd-img]: https://badge.stateful.com/entelecheia/dnd.svg
 
-## CLI
-
-```bash
-# Install with Go 1.22+
-go install github.com/entelecheia/entelecheia@latest
-
-# Or download a prebuilt binary
-# https://github.com/entelecheia/entelecheia/releases
-
-# Try it
-entelecheia                # show intro
-entelecheia open           # open homepage in browser
-entelecheia open cv        # open bilingual CV
-entelecheia open halla     # open halla.ai
-entelecheia links          # list all sites
-entelecheia --version
-```
-
 Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accomplished”) + ἔχειν (ékhein, “have, hold”).
 
 [![entelecheia](https://github.com/entelecheia/entelecheia/assets/1177283/0a67c698-8c9e-4006-b131-d0593cd7c256)][home-url]
@@ -159,3 +141,21 @@ To redefine the future of **education, finance, and sustainability** through **e
 ### 🔗 Link with me on [![linkedin-img]][linkedin-url]
 
 [![1648330290418](https://assets.entelecheia.ai/img/github-bg.jpeg)][linkedin-url]
+
+## CLI
+
+```bash
+# Install with Go 1.22+
+go install github.com/entelecheia/entelecheia@latest
+
+# Or download a prebuilt binary
+# https://github.com/entelecheia/entelecheia/releases
+
+# Try it
+entelecheia                # show intro
+entelecheia open           # open homepage in browser
+entelecheia open cv        # open bilingual CV
+entelecheia open halla     # open halla.ai
+entelecheia links          # list all sites
+entelecheia --version
+```
