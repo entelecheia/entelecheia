@@ -120,7 +120,7 @@ To redefine the future of **education, finance, and sustainability** through **e
 <details>
   <summary>📊 GitHub Stats</summary>
 
-  <a href="https://youngjoon-lee.com/repositories/">
+  <a href="https://youngjoon-lee.com/">
     <img width=49% align="center" src="http://github-readme-streak-stats.entelecheia.me/?user=entelecheia&theme=transparent&hide_border=true" />
     <img width=49% align="center" src="http://github-readme-stats.entelecheia.me/api?username=entelecheia&theme=transparent&show_icons=true&hide_border=true&hide_title=true" />
   </a>
