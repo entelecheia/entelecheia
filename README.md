@@ -42,8 +42,8 @@ Coined by Aristotle from ἐντελής (entelḗs, “complete, full, accompli
 
 ### 👋 Hi there, I'm **Young Joon Lee (이영준)**
 
-🎓 Associate Professor of Artificial Intelligence
-💼 Chief AI Officer (CAIO) & Assistant Vice President for AX
+🎓 Professor of Artificial Intelligence
+💼 Chief AI Officer (CAIO) & Vice President for AX
 🌍 Regional Innovation, RISE, and Global AI Education Leader
 
 🧠 About Me
