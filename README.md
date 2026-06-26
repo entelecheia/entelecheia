@@ -21,7 +21,6 @@
 [koica-tiu-url]: https://koica-tiu.halla.ai
 [home-img]: https://img.shields.io/badge/youngjoon-lee-blue
 [home-url]: https://youngjoon-lee.com
-[home-repo-url]: https://youngjoon-lee.com/repositories
 [cv-img]: https://img.shields.io/badge/CV-EN%2FKR-blue
 [cv-url]: https://youngjoon-lee.com/cv/
 [rise-img]: https://img.shields.io/badge/rise-jeju.ai-blue
@@ -125,16 +124,16 @@ To redefine the future of **education, finance, and sustainability** through **e
     <img width=49% align="center" src="http://github-readme-stats.entelecheia.me/api?username=entelecheia&theme=transparent&show_icons=true&hide_border=true&hide_title=true" />
   </a>
   
-  [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)][home-repo-url]
+  [![trophy](https://github-profile-trophy.entelecheia.me/?username=entelecheia&theme=darkhub&rank=-C,-B&column=-1&no-bg=true&no-frame=true)][home-url]
 
 </details>
   
 <details>
   <summary>🔥 Recent Contributions</summary>
   
-  [![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)][home-repo-url]
+  [![entelecheia's github activity graph](https://github-readme-activity-graph.entelecheia.me/graph?username=entelecheia&theme=react-dark&area=true&hide_border=true)][home-url]
 
-[![3d contributions](https://raw.githubusercontent.com/entelecheia/metrics/main/profile-3d-contrib/profile-entelecheia.svg)][home-repo-url]
+[![3d contributions](https://raw.githubusercontent.com/entelecheia/metrics/main/profile-3d-contrib/profile-entelecheia.svg)][home-url]
 
 </details>
 
