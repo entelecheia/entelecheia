@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "entelecheia Profile CLI",
+    "output": "entelecheia-rendered.html",
+    "viewBox": [1376, 580],
+    "quality_profile": "showcase",
+    "views": [
+      { "id": "cli-path", "label": "CLI command path", "focus": ["user", "cli", "profile"], "note": "The user runs intro/open/links/version; every command resolves through the profile package." },
+      { "id": "link-path", "label": "Site link path", "focus": ["cli", "profile", "sites"], "note": "The open command launches an alias-matched personal site from the profile registry." },
+      { "id": "install-path", "label": "Install path", "focus": ["gomod", "releases", "cli"], "note": "Users install via go install or download from GitHub releases." }
+    ]
+  },
+  "components": [
+    { "id": "user", "type": "external", "label": "User", "sublabel": "terminal", "pos": [40, 330], "size": [120, 60] },
+    { "id": "cli", "type": "backend", "label": "entelecheia CLI", "sublabel": "main.go — 4 commands", "pos": [250, 330], "size": [150, 64], "tag": "Go 1.22" },
+    { "id": "profile", "type": "backend", "label": "Profile Package", "sublabel": "internal/profile", "pos": [480, 330], "size": [150, 64], "tag": "11 site aliases" },
+    { "id": "sites", "type": "external", "label": "Personal Sites", "sublabel": "youngjoon-lee.com + 10", "pos": [700, 330], "size": [150, 64] },
+
+    { "id": "gomod", "type": "cloud", "label": "Go Modules", "sublabel": "go install @latest", "pos": [40, 110], "size": [150, 60] },
+    { "id": "releases", "type": "cloud", "label": "GitHub Releases", "sublabel": "github.com/entelecheia", "pos": [250, 110], "size": [160, 60] }
+  ],
+  "boundaries": [
+    { "kind": "region", "label": "Single binary, no server", "wraps": ["cli", "profile"] }
+  ],
+  "connections": [
+    { "id": "user-to-cli", "from": "user", "to": "cli", "label": "run" },
+    { "id": "cli-to-profile", "from": "cli", "to": "profile", "label": "resolve" },
+    { "id": "profile-to-sites", "from": "profile", "to": "sites", "label": "open URL" },
+    { "id": "gomod-to-cli", "from": "gomod", "to": "cli", "label": "install", "fromSide": "bottom", "toSide": "top" },
+    { "id": "releases-to-cli", "from": "releases", "to": "cli", "label": "download", "fromSide": "bottom", "toSide": "top", "labelAt": [372, 184] }
+  ],
+  "cards": [
+    { "dot": "cyan", "title": "CLI", "items": ["Go 1.22 module github.com/entelecheia/entelecheia with main.go dispatching through internal/profile", "Four commands: intro (ASCII banner), open [alias], links (alias table), version", "Color output adapts via profile.SupportsColor; unknown aliases list available ones"] },
+    { "dot": "violet", "title": "Link registry", "items": ["11 site aliases in internal/profile/profile.go: home, cv, halla, koica-tiu, rise, staix/bwlb, research, repos, github, linkedin", "open defaults to home (youngjoon-lee.com); cv resolves to youngjoon-lee.com/cv/", "docs/index.html is a static meta-refresh redirect to LinkedIn"] },
+    { "dot": "emerald", "title": "Identity", "items": ["Profile carries the professor/CAIO identity across halla.ai, jeju.ai, and staixbwlb.com properties", "Install via go install github.com/entelecheia/entelecheia@latest or GitHub releases", "Tests in internal/profile/profile_test.go and main_test.go cover run paths"] }
+  ]
+}
