@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "entelecheia Profile CLI",
+    "output": "entelecheia-rendered.html",
+    "viewBox": [1376, 580],
+    "quality_profile": "showcase",
+    "repository": { "url": "https://github.com/entelecheia/entelecheia", "provider": "github", "revision": "ac3519ea892aa6c13f468ef6b489ad9fab4369ed" },
+    "views": [
+      { "id": "cli-path", "label": "CLI command path", "focus": ["user", "cli", "profile"], "note": "The user runs intro/open/links/version; every command resolves through the profile package." },
+      { "id": "link-path", "label": "Site link path", "focus": ["cli", "profile", "sites"], "note": "The open command launches an alias-matched personal site from the profile registry." },
+      { "id": "install-path", "label": "Install path", "focus": ["gomod", "releases", "cli"], "note": "Users install via go install or download from GitHub releases." }
+    ]
+  },
+  "components": [
+    { "id": "user", "type": "external", "label": "User", "sublabel": "terminal", "pos": [280, 330], "size": [120, 60] },
+    { "id": "cli", "type": "backend", "label": "entelecheia CLI", "sublabel": "main.go, 4 commands", "pos": [490, 330], "size": [150, 64], "tag": "Go 1.22", "sources": [{ "path": "main.go", "line": 18, "label": "run dispatch" }, { "path": "go.mod", "line": 3, "label": "go 1.22" }] },
+    { "id": "profile", "type": "backend", "label": "Profile Package", "sublabel": "internal/profile", "pos": [720, 330], "size": [150, 64], "tag": "10 registry sites", "sources": [{ "path": "internal/profile/profile.go", "line": 16, "label": "Sites registry" }, { "path": "internal/profile/open.go", "line": 9, "label": "Open via OS opener" }] },
+    { "id": "sites", "type": "external", "label": "Personal Sites", "sublabel": "youngjoon-lee.com + 9", "pos": [940, 330], "size": [150, 64] },
+
+    { "id": "gomod", "type": "cloud", "label": "Go Modules", "sublabel": "go install @latest", "pos": [340, 110], "size": [150, 60], "sources": [{ "path": "go.mod", "line": 1, "label": "module path" }] },
+    { "id": "releases", "type": "cloud", "label": "GitHub Releases", "sublabel": "goreleaser on v* tags", "pos": [590, 110], "size": [160, 60], "sources": [{ "path": ".github/workflows/release.yaml", "line": 4, "label": "push tags v*" }, { "path": ".goreleaser.yaml", "line": 9, "label": "builds" }] }
+  ],
+  "boundaries": [
+    { "kind": "region", "label": "Single binary", "wraps": ["cli", "profile"] }
+  ],
+  "connections": [
+    { "id": "user-to-cli", "from": "user", "to": "cli", "label": "run" },
+    { "id": "cli-to-profile", "from": "cli", "to": "profile", "label": "resolve" },
+    { "id": "profile-to-sites", "from": "profile", "to": "sites", "label": "open URL" },
+    { "id": "gomod-to-cli", "from": "gomod", "to": "cli", "label": "install", "fromSide": "bottom", "toSide": "top" },
+    { "id": "releases-to-cli", "from": "releases", "to": "cli", "label": "download", "fromSide": "bottom", "toSide": "top" }
+  ],
+  "cards": [
+    { "dot": "cyan", "title": "CLI", "items": ["Go 1.22 module github.com/entelecheia/entelecheia: one binary, no server; main.go dispatches through internal/profile", "Four commands: intro (ASCII banner), open [alias], links (alias table), version", "Color output adapts via profile.SupportsColor; unknown aliases list available ones"] },
+    { "dot": "violet", "title": "Link registry", "items": ["10 sites in internal/profile/profile.go, each with its aliases: home, cv, halla, koica-tiu, rise, staix/bwlb, research, repos, github, linkedin", "open defaults to home (youngjoon-lee.com); cv resolves to youngjoon-lee.com/cv/", "docs/index.html, served by GitHub Pages from main /docs, meta-refreshes to LinkedIn"] },
+    { "dot": "emerald", "title": "Identity", "items": ["Profile carries the professor/CAIO identity across halla.ai, jeju.ai, and staixbwlb.com properties", "Install via go install github.com/entelecheia/entelecheia@latest or GitHub releases", "ci.yml runs go vet, build and test (profile_test.go, main_test.go); release.yaml runs goreleaser on v* tags"] }
+  ]
+}
