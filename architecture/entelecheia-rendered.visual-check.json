@@ -6,11 +6,11 @@
   "status": "pass",
   "visualReview": "pending",
   "provenance": "current",
-  "deliveryReceiptId": "4d4b6d4f-ec8f-4e93-af04-14b834d145d1",
+  "deliveryReceiptId": "92061ffe-8f81-47dd-a86c-645701d6b174",
   "artifact": {
     "path": "architecture/entelecheia-rendered.html",
-    "sha256": "0eadd85a96a28253afa49e2e95b6de7645eb561ea12e82a77f2b382ce086ce63",
-    "bytes": 759183
+    "sha256": "571e939afcb82dfbc818935e9fa946b36beb960d22155fac548f47d3a3d0a8ad",
+    "bytes": 759212
   },
   "state": {
     "detail": "read",
@@ -937,23 +937,23 @@
         "file": "entelecheia-rendered.visual-check.html"
       },
       {
-        "sha256": "0d3a00b17b4564b02bd2ca24d95ddcd5d5e5f860890079ca5c136e44d744e7e9",
-        "bytes": 118774,
+        "sha256": "5be2d2760afd84170646feced410af6768b063d8e24d50b3630491bec9a7ba99",
+        "bytes": 119889,
         "file": "entelecheia-rendered.visual-check.1440x900.light.png"
       },
       {
-        "sha256": "c4b0880f1b723f68c518ea93d03cc64d41e81b3ce55de6f5b0f33dbd9be26236",
-        "bytes": 125333,
+        "sha256": "1ffcf11fc075a38d8bbf4dd99ff330f083a3a058377f394d40c4a0a92fab2ea7",
+        "bytes": 126491,
         "file": "entelecheia-rendered.visual-check.1440x900.dark.png"
       },
       {
-        "sha256": "dd8210a40cfaeeb77342514f04b2d187ec47c8212caee5cbbd72364ede1c09dc",
-        "bytes": 166225,
+        "sha256": "d1acb6ff04c3edf06646b5bddbc752369bd33de06bc0a911c2de63ea2631d343",
+        "bytes": 167232,
         "file": "entelecheia-rendered.visual-check.2048x1320.light.png"
       },
       {
-        "sha256": "03f83313792569ac1af62f28afad4ee69c98bdd6f74607ae093b1cc1ed072908",
-        "bytes": 175837,
+        "sha256": "1cc945f2cf5c41fd416d63edd39f7e1a8cdac8ddcb65917c8a34316d1f773488",
+        "bytes": 176888,
         "file": "entelecheia-rendered.visual-check.2048x1320.dark.png"
       }
     ]

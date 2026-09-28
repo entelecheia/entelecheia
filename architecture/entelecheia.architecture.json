@@ -28,7 +28,7 @@
     { "id": "releases-to-cli", "from": "releases", "to": "cli", "label": "download", "variant": "dashed" }
   ],
   "cards": [
-    { "dot": "cyan", "title": "CLI", "items": ["Module github.com/entelecheia/entelecheia, one Go binary with no server or storage", "No args or intro prints the profile and links prints the alias table; version, -v, --version and help are answered in main.go without the profile package", "Color output only on a TTY without NO_COLOR (SupportsColor)"] },
+    { "dot": "cyan", "title": "CLI", "items": ["Module github.com/entelecheia/entelecheia, one Go binary with no server or storage", "No args or intro prints the profile and links prints the alias table; version, -v, --version and help print from main.go; their only profile call is SupportsColor at the top of run()", "Color output only on a TTY without NO_COLOR (SupportsColor)"] },
     { "dot": "violet", "title": "Link registry", "items": ["10 sites with case-insensitive aliases: home, cv, halla, koica, rise, staix, research, repos, github, linkedin", "open defaults to home (youngjoon-lee.com); unknown aliases exit 1 and point to links", "docs/index.html meta-refreshes to the LinkedIn profile"] },
     { "dot": "emerald", "title": "Build and release", "items": ["ci.yml runs go vet, build and test on PRs and pushes to main", "release.yaml runs goreleaser on v* tags: darwin, linux, windows builds with main.Version set by ldflags"] }
   ]
