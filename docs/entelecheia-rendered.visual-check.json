@@ -6,7 +6,7 @@
   "status": "pass",
   "visualReview": "pending",
   "artifact": {
-    "path": "/Users/yj.lee/workspace/work/.claude/worktrees/blueprint-entelecheia/docs/entelecheia-rendered.html",
+    "path": "docs/entelecheia-rendered.html",
     "sha256": "70e60894d8e56350d4f46d4820bab8af51563206c2c55fa4c1fff1bc1b7c26ff",
     "bytes": 806513
   },
