@@ -5,12 +5,7 @@
     "title": "entelecheia Profile CLI",
     "output": "entelecheia-rendered.html",
     "quality_profile": "showcase",
-    "repository": { "url": "https://github.com/entelecheia/entelecheia", "provider": "github", "revision": "ac3519ea892aa6c13f468ef6b489ad9fab4369ed" },
-    "views": [
-      { "id": "cli-path", "label": "CLI command path", "focus": ["user", "cli", "profile"], "note": "run() dispatches intro, open, links, version and help; output comes from the profile package." },
-      { "id": "open-path", "label": "Open site path", "focus": ["cli", "profile", "opener", "sites"], "note": "open [alias] resolves the alias (default home) and starts the OS opener with the site URL." },
-      { "id": "install-path", "label": "Install path", "focus": ["gomod", "releases", "cli"], "note": "Users install with go install or download a goreleaser archive from GitHub releases." }
-    ]
+    "repository": { "url": "https://github.com/entelecheia/entelecheia", "provider": "github", "revision": "ac3519ea892aa6c13f468ef6b489ad9fab4369ed" }
   },
   "components": [
     { "id": "user", "type": "external", "label": "User", "sublabel": "terminal args", "pos": [40, 240], "size": [110, 60], "sources": [{ "path": "main.go", "line": 14, "end_line": 16, "label": "os.Args to run" }] },
@@ -33,7 +28,7 @@
     { "id": "releases-to-cli", "from": "releases", "to": "cli", "label": "download", "variant": "dashed" }
   ],
   "cards": [
-    { "dot": "cyan", "title": "CLI", "items": ["Module github.com/entelecheia/entelecheia, one Go binary with no server or storage", "No args or intro prints the profile; links prints the alias table; version, -v and --version print main.Version", "Color output only on a TTY without NO_COLOR (SupportsColor)"] },
+    { "dot": "cyan", "title": "CLI", "items": ["Module github.com/entelecheia/entelecheia, one Go binary with no server or storage", "No args or intro prints the profile and links prints the alias table; version, -v, --version and help are answered in main.go without the profile package", "Color output only on a TTY without NO_COLOR (SupportsColor)"] },
     { "dot": "violet", "title": "Link registry", "items": ["10 sites with case-insensitive aliases: home, cv, halla, koica, rise, staix, research, repos, github, linkedin", "open defaults to home (youngjoon-lee.com); unknown aliases exit 1 and point to links", "docs/index.html meta-refreshes to the LinkedIn profile"] },
     { "dot": "emerald", "title": "Build and release", "items": ["ci.yml runs go vet, build and test on PRs and pushes to main", "release.yaml runs goreleaser on v* tags: darwin, linux, windows builds with main.Version set by ldflags"] }
   ]
