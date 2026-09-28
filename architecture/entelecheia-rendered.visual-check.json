@@ -6,9 +6,9 @@
   "status": "pass",
   "visualReview": "pending",
   "provenance": "current",
-  "deliveryReceiptId": "8b2f84dd-d561-458b-8fa3-476f8591ddf0",
+  "deliveryReceiptId": "4d4b6d4f-ec8f-4e93-af04-14b834d145d1",
   "artifact": {
-    "path": "docs/entelecheia-rendered.html",
+    "path": "architecture/entelecheia-rendered.html",
     "sha256": "0eadd85a96a28253afa49e2e95b6de7645eb561ea12e82a77f2b382ce086ce63",
     "bytes": 759183
   },
@@ -952,8 +952,8 @@
         "file": "entelecheia-rendered.visual-check.2048x1320.light.png"
       },
       {
-        "sha256": "112596c5beec5d1978a960da3a5044558e35f075d8a809ecf17b710060d5a697",
-        "bytes": 175840,
+        "sha256": "03f83313792569ac1af62f28afad4ee69c98bdd6f74607ae093b1cc1ed072908",
+        "bytes": 175837,
         "file": "entelecheia-rendered.visual-check.2048x1320.dark.png"
       }
     ]
